@@ -1,0 +1,26 @@
+{
+  "name": "bluecrow-api",
+  "version": "1.0.0",
+  "description": "Azure Functions API for BlueCrow Assistant",
+  "scripts": {
+    "build": "node ./scripts/sync-config.cjs && tsc",
+    "start": "func start",
+    "prestart": "npm run build",
+    "test": "npm run build && node --test tests/*.test.js",
+    "sync-config": "node ./scripts/sync-config.cjs",
+    "upload:media": "node ./scripts/upload-public-media-to-blob.cjs",
+    "migrate:media-urls": "node ./scripts/rewrite-content-media-urls.cjs"
+  },
+  "dependencies": {
+    "@azure/storage-blob": "^12.28.0",
+    "openai": "^4.67.3",
+    "@azure/search-documents": "^12.1.0",
+    "@azure/identity": "^4.0.0",
+    "@azure/functions": "^4.0.0",
+    "microsoft-cognitiveservices-speech-sdk": "^1.40.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2",
+    "@types/node": "^20.0.0"
+  }
+}

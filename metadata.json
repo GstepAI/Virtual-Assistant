@@ -1,0 +1,7 @@
+{
+  "name": "Blue Crow Capital - Virtual Agent",
+  "description": "A virtual agent tool for an asset management company to present fund information and answer questions, capable of displaying relevant slides during interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

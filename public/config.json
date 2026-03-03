@@ -1,0 +1,5 @@
+{
+  "VITE_QNA_ENABLED": "true",
+  "VITE_BUG_REPORT_ENABLED": "true",
+  "VITE_ADMIN_ENABLED": "true"
+}

@@ -1,0 +1,1213 @@
+{
+    "ALL_SLIDES": [ 
+{
+    "id": "bluecrow_start",
+    "title": "Bluecrow Startt",
+    "imageUrl": "slides/About - Start/bluecrow_start.PNG",
+    "videoUrl": "videos/About - Start/bluecrow_start.mp4",
+    "description": "Opening slide that sets the tone for the presentation and introduces BlueCrow Capital as an investment management firm.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Thank you for joining us today. I’d like to introduce you to BlueCrow Capital—who we are, how we invest, and the opportunities we create for our clients.",
+        "en-UK": "Thank you for joining us today. I’d like to introduce you to BlueCrow Capital—who we are, how we invest, and the opportunities we create for our clients.",
+        "pt-BR": "Obrigado por se juntar a nós hoje. Gostaria de lhe apresentar a BlueCrow Capital — quem somos, como investimos e as oportunidades que criamos para os nossos clientes."
+    }
+},
+{
+    "id": "about_bluecrow_overview",
+    "title": "About Bluecrow Overview",
+    "imageUrl": "slides/About - Start/about_bluecrow_overview.PNG",
+    "videoUrl": "videos/About - Start/about_bluecrow_overview.mp4",
+    "description": "Provides a high-level overview of BlueCrow Capital, including its history, positioning in the market, and assets under management.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "BlueCrow is a licensed financial company focused on managing venture capital funds and alternative investment funds. We began our activity in 2010, with a clear objective from the very beginning. Our goal has always been to offer private investors access to investment opportunities that are not available to most traditional investors. That’s why we mainly work with individuals and family-owned businesses, giving them the opportunity to invest in alternative assets. Today, in Portugal, we manage well-over 650 million euros in assets. We currently oversee close to 21 investment funds. Our focus is always on disciplined fund management and on maintaining a close, long lasting relationship with our investors.",
+        "en-UK": "BlueCrow is a licensed financial company focused on managing venture capital funds and alternative investment funds. We began our activity in 2010, with a clear objective from the very beginning. Our goal has always been to offer private investors access to investment opportunities that are not available to most traditional investors. That’s why we mainly work with individuals and family-owned businesses, giving them the opportunity to invest in alternative assets. Today, in Portugal, we manage well-over 650 million euros in assets. We currently oversee close to 21 investment funds. Our focus is always on disciplined fund management and on maintaining a close, long lasting relationship with our investors.",
+        "pt-BR": "A BlueCrow é uma empresa financeira licenciada, especializada na gestão de fundos de capital de risco e fundos de investimento alternativos. Iniciámos a nossa atividade em 2010, com um objetivo claro desde o início. O nosso propósito sempre foi oferecer aos investidores privados acesso a oportunidades de investimento que não estão disponíveis para a maioria dos investidores tradicionais, razão pela qual trabalhamos principalmente com particulares e empresas familiares, proporcionando-lhes a possibilidade de investir em ativos alternativos. Atualmente, em Portugal, gerimos mais de 650 milhões de euros em ativos e supervisionamos cerca de 21 fundos de investimento, alguns dos quais partilham a mesma estratégia de investimento, diferenciando-se apenas pelo ano de lançamento. Como referido anteriormente, o nosso foco está sempre na gestão disciplinada dos fundos e na manutenção de uma relação próxima e de longo prazo com os investidores individuais, sejam famílias ou particulares."
+    }
+},
+{
+    "id": "next_tech_fund_intro",
+    "title": "Next Tech Fund Intro",
+    "imageUrl": "slides/Next-Tech/next_tech_fund_intro.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_fund_intro.mp4",
+    "description": "",
+    "QnA": false,
+    "pitchScript": {
+        "en-US": "Let me now introduce Next Tech Fund. This is one of BlueCrow’s flagship venture capital funds, designed to give investors exposure to high-growth technology companies. The fund focuses on innovative projects that are shaping the future of their industries, while benefiting from Portugal’s rapidly expanding startup ecosystem. Next Tech Fund was created to combine diversification with strong return potential over the long term.",
+        "en-UK": "Let me now introduce Next Tech Fund. This is one of BlueCrow’s flagship venture capital funds, designed to give investors exposure to high-growth technology companies. The fund focuses on innovative projects that are shaping the future of their industries, while benefiting from Portugal’s rapidly expanding startup ecosystem. Next Tech Fund was created to combine diversification with strong return potential over the long term.",
+        "pt-BR": "Permita-me agora apresentar o Next Tech Fund. Este é um dos principais fundos de capital de risco da BlueCrow, criado para dar aos investidores exposição a empresas tecnológicas com elevado potencial de crescimento. O fundo foca-se em projetos inovadores que beneficiam do ecossistema de startups em rápida expansão em Portugal e de tendências tecnológicas de longo prazo."
+    }
+},
+{
+    "id": "next_tech_fund_manager",
+    "title": "Next Tech Fund Manager",
+    "imageUrl": "slides/Next-Tech/next_tech_fund_manager.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_fund_manager.mp4",
+    "description": "Introduces Antonio Mello Campello the fund manager of Next Tech Fund I and Managing Partner, and highlights their professional background and investment philosophy.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "The Next tech funds are managed by António Mello Campello, Managing Partner at BlueCrow Capital. António has over twenty-five years of experience in capital markets and investment management, including roles in investment banking and asset management. His approach is centred on disciplined portfolio construction, long-term thinking, and a strong focus on risk control, which is fundamental in managing investment strategies.",
+        "en-UK": "The Next tech funds are managed by António Mello Campello, Managing Partner at BlueCrow Capital. António has over twenty-five years of experience in capital markets and investment management, including roles in investment banking and asset management. His approach is centred on disciplined portfolio construction, long-term thinking, and a strong focus on risk control, which is fundamental in managing investment strategies.",
+        "pt-BR": "O Next Tech Fund é gerido por Francisco Sousa Louro, um profissional de investimento com mais de dezasseis anos de experiência nos mercados de capitais e na gestão de ativos. O seu percurso inclui ações, construção de portefólios e avaliação de investimentos em private equity. A sua filosofia assenta numa abordagem de longo prazo, baseada no conhecimento profundo das empresas, e não em previsões de mercado de curto prazo."
+    }
+},
+{
+    "id": "next_tech_portugal_tech_ecosystem_1",
+    "title": "Next Tech Portugal Tech Ecosystem 1",
+    "imageUrl": "slides/Next-Tech/next_tech_portugal_tech_ecosystem_1.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_portugal_tech_ecosystem_1.mp4",
+    "description": "Explains why Portugal has become an attractive environment for technology companies and innovation-driven investments.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Portugal has emerged as a highly attractive destination for technology and innovation. The country combines political and economic stability with a strong focus on innovation, talent development, and entrepreneurship. Its quality of life, competitive cost structure, and access to European and global markets have helped attract both startups and international investors. These conditions create a fertile environment for building and scaling technology-driven companies.",
+        "en-UK": "Portugal has emerged as a highly attractive destination for technology and innovation. The country combines political and economic stability with a strong focus on innovation, talent development, and entrepreneurship. Its quality of life, competitive cost structure, and access to European and global markets have helped attract both startups and international investors. These conditions create a fertile environment for building and scaling technology-driven companies.",
+        "pt-BR": "Portugal tornou-se um destino cada vez mais atrativo para a tecnologia e a inovação. Combina estabilidade política e económica com uma forte aposta no empreendedorismo, no talento e na inovação. Estas condições criam um ambiente propício para que empresas tecnológicas cresçam, se expandam e compitam a nível internacional."
+    }
+},
+{
+    "id": "next_tech_portugal_tech_ecosystem_2",
+    "title": "Next Tech Portugal Tech Ecosystem 2",
+    "imageUrl": "slides/Next-Tech/next_tech_portugal_tech_ecosystem_2.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_portugal_tech_ecosystem_2.mp4",
+    "description": "Builds on the Portuguese tech ecosystem by highlighting talent, education, and innovation as key growth drivers.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "One of Portugal’s greatest strengths is its talent base. The country produces highly qualified professionals in engineering, technology, and science, supported by strong universities and research centres. This talent, combined with a culture of innovation and increasing access to international markets, has positioned Portugal as a competitive hub for technology companies. For investors, this means access to businesses built on solid foundations with strong long-term growth potential.",
+        "en-UK": "One of Portugal’s greatest strengths is its talent base. The country produces highly qualified professionals in engineering, technology, and science, supported by strong universities and research centres. This talent, combined with a culture of innovation and increasing access to international markets, has positioned Portugal as a competitive hub for technology companies. For investors, this means access to businesses built on solid foundations with strong long-term growth potential.",
+        "pt-BR": "Uma das grandes vantagens de Portugal é a sua base de talento. O país forma profissionais altamente qualificados em engenharia, tecnologia e ciências, apoiados por universidades e centros de investigação de referência. Este talento, aliado a uma cultura de inovação, reforça o potencial de crescimento das empresas tecnológicas."
+    }
+},
+{
+    "id": "next_tech_startup_economic_impact",
+    "title": "Next Tech Startup Economic Impact",
+    "imageUrl": "slides/Next-Tech/next_tech_startup_economic_impact.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_startup_economic_impact.mp4",
+    "description": "Explains the economic relevance and scale of Portugal’s startup ecosystem, including revenue generation, job creation, and export orientation.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Portugal’s startup ecosystem already has a very real and measurable economic impact. In 2024 alone, startups generated around two point six billion euros in revenue, with more than half of that coming from exports. This shows that these companies are not only innovative, but also globally competitive. The sector has created over twenty-six thousand jobs, making it a meaningful contributor to the national economy. Technology plays a central role here, driving growth, employment, and internationalisation.",
+        "en-UK": "Portugal’s startup ecosystem already has a very real and measurable economic impact. In 2024 alone, startups generated around two point six billion euros in revenue, with more than half of that coming from exports. This shows that these companies are not only innovative, but also globally competitive. The sector has created over twenty-six thousand jobs, making it a meaningful contributor to the national economy. Technology plays a central role here, driving growth, employment, and internationalisation.",
+        "pt-BR": "As startups em Portugal já têm um impacto económico muito significativo. Em 2024, geraram cerca de dois vírgula seis mil milhões de euros em receitas, com uma forte componente de exportação. Criaram também dezenas de milhares de postos de trabalho qualificados, tornando a tecnologia um motor relevante do crescimento económico."
+    }
+},
+{
+    "id": "next_tech_international_investor_confidence",
+    "title": "Next Tech International Investor Confidence",
+    "imageUrl": "slides/Next-Tech/next_tech_international_investor_confidence.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_international_investor_confidence.mp4",
+    "description": "Shows how international investors are already investing heavily in Portuguese startups, validating the attractiveness of the ecosystem.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "This opportunity has not gone unnoticed internationally. A significant share of the capital invested in Portuguese startups already comes from foreign investors. This international participation is a strong validation of the quality of the companies being built here and the maturity of the ecosystem. For investors, this means entering a market that has already been recognised and endorsed by global capital, rather than an untested or purely local opportunity.",
+        "en-UK": "This opportunity has not gone unnoticed internationally. A significant share of the capital invested in Portuguese startups already comes from foreign investors. This international participation is a strong validation of the quality of the companies being built here and the maturity of the ecosystem. For investors, this means entering a market that has already been recognised and endorsed by global capital, rather than an untested or purely local opportunity.",
+        "pt-BR": "Esta oportunidade já foi reconhecida a nível internacional. Uma parte significativa do capital investido em startups portuguesas provém de investidores estrangeiros, o que valida a qualidade, maturidade e relevância global deste ecossistema."
+    }
+},
+{
+    "id": "next_tech_startup_risk_resilience",
+    "title": "Next Tech Startup Risk Resilience",
+    "imageUrl": "slides/Next-Tech/next_tech_startup_risk_resilience.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_startup_risk_resilience.mp4",
+    "description": "Addresses investment risk by explaining failure risk levels and financial resilience of Portuguese startups.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "While startups are often associated with high risk, the reality in Portugal is more balanced. Data shows that nearly three quarters of startups fall into the minimum or reduced failure risk categories. In addition, their financial resilience is broadly in line with the overall business community. This creates a more attractive risk-return profile, especially when investments are diversified across multiple companies within a professionally managed fund structure.",
+        "en-UK": "While startups are often associated with high risk, the reality in Portugal is more balanced. Data shows that nearly three quarters of startups fall into the minimum or reduced failure risk categories. In addition, their financial resilience is broadly in line with the overall business community. This creates a more attractive risk-return profile, especially when investments are diversified across multiple companies within a professionally managed fund structure.",
+        "pt-BR": "Embora as startups sejam frequentemente associadas a risco elevado, os dados mostram uma realidade mais equilibrada. A maioria das startups portuguesas apresenta risco mínimo ou reduzido e níveis de resiliência financeira semelhantes aos do tecido empresarial em geral."
+    }
+},
+{
+    "id": "next_tech_fund_vision",
+    "title": "Next Tech Fund Vision",
+    "imageUrl": "slides/Next-Tech/next_tech_fund_vision.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_fund_vision.mp4",
+    "description": "Presents the vision, objectives, size, and long-term horizon of Next Tech Fund I.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Our Next Tech Fund launched in 2020, and it has been a real success story. We raised around €35 million and deployed that capital quickly, investing in 10 promising companies. Their performance has been so strong that we decided to reopen the fund. We are now raising additional capital from investors in Portugal and internationally to support both our existing portfolio companies and new opportunities. Like most of our funds, this one will be listed on Euronext Access, which provides flexibility. If your Golden Visa plans change or you need liquidity before the fund matures, you will have the option of an early exit.",
+        "en-UK": "Our Next Tech Fund launched in 2020, and it has been a real success story. We raised around €35 million and deployed that capital quickly, investing in 10 promising companies. Their performance has been so strong that we decided to reopen the fund. We are now raising additional capital from investors in Portugal and internationally to support both our existing portfolio companies and new opportunities. Like most of our funds, this one will be listed on Euronext Access, which provides flexibility. If your Golden Visa plans change or you need liquidity before the fund matures, you will have the option of an early exit.",
+        "pt-BR": "O nosso Next Tech Fund foi lançado em 2020 e tem sido um verdadeiro caso de sucesso. Angariámos cerca de 35 milhões de euros e alocámos esse capital de forma rápida, investindo em 10 empresas promissoras. O desempenho tem sido tão forte que decidimos reabrir o fundo. Estamos agora a angariar capital adicional junto de investidores em Portugal e a nível internacional para apoiar tanto as empresas já presentes no portefólio como novas oportunidades. Tal como a maioria dos nossos fundos, este será cotado na Euronext Access, o que proporciona flexibilidade. Caso os seus planos de Golden Visa mudem ou necessite de liquidez antes do término do fundo, terá a possibilidade de uma saída antecipada."
+    }
+},
+{
+    "id": "next_tech_investment_policy_target_sectors",
+    "title": "Next Tech Investment Policy Target Sectors",
+    "imageUrl": "slides/Next-Tech/next_tech_investment_policy_target_sectors.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_investment_policy_target_sectors.mp4",
+    "description": "Explains the fund’s investment policy, sector focus, and criteria for selecting portfolio companies.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "So what's the fund really about? Here's the thing real value doesn't come from just having great technology. You could have the most brilliant physicist or technologist creating an incredible product, but if they can't sell it or actually solve customer problems, it's not going to generate much value. That's where we come in. We're incredibly hands-on with our companies, working closely to help them grow their customer base and deliver real results. We call it our 'local champion' strategy, we back companies that are truly excellent at getting their products to market, both here in Portugal and abroad. Our goal with this fund? Take it from 10 tech companies to 20, making sure each one is making a genuine impact and building lasting value.",
+        "en-UK": "So what's the fund really about? Here's the thing real value doesn't come from just having great technology. You could have the most brilliant physicist or technologist creating an incredible product, but if they can't sell it or actually solve customer problems, it's not going to generate much value. That's where we come in. We're incredibly hands-on with our companies, working closely to help them grow their customer base and deliver real results. We call it our 'local champion' strategy, we back companies that are truly excellent at getting their products to market, both here in Portugal and abroad. Our goal with this fund? Take it from 10 tech companies to 20, making sure each one is making a genuine impact and building lasting value.",
+        "pt-BR": "Então, do que trata realmente o fundo? A questão é esta, o verdadeiro valor não vem apenas de ter ótima tecnologia. Pode ter o físico ou tecnólogo mais brilhante a criar um produto incrível, mas se não conseguirem vendê-lo ou resolver realmente os problemas dos clientes, não vai gerar muito valor. É aí que entramos. Somos extremamente práticos com as nossas empresas, trabalhando de perto para as ajudar a aumentar a sua base de clientes e entregar resultados reais. Chamamos-lhe a nossa estratégia de 'campeão local', apoiamos empresas que são verdadeiramente excelentes a colocar os seus produtos no mercado, tanto aqui em Portugal como no estrangeiro. O nosso objetivo com este fundo? Levá-lo de 10 empresas tecnológicas para 20, garantindo que cada uma está a ter um impacto genuíno e a construir valor duradouro."
+    }
+},
+{
+    "id": "next_tech_hands_on_local_champion",
+    "title": "Next Tech Hands On Local Champion",
+    "imageUrl": "slides/Next-Tech/next_tech_hands_on_local_champion.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_hands_on_local_champion.mp4",
+    "description": "Describes the fund’s hands-on approach and its strategy of building local market leaders with international expansion potential.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "For us, venture capital is divided into three stages: technology development, proof of concept, and commercial and geographical expansion. We do not invest at the technology development stage, and while we may be close to the proof-of-concept phase, our core focus is on commercial execution and international expansion. This is, in our view, the only sustainable way to achieve higher valuations. If we are not able to add value by helping companies grow internationally, then we are not able to create value for you as an investor.",
+        "en-UK": "For us, venture capital is divided into three stages: technology development, proof of concept, and commercial and geographical expansion. We do not invest at the technology development stage, and while we may be close to the proof-of-concept phase, our core focus is on commercial execution and international expansion. This is, in our view, the only sustainable way to achieve higher valuations. If we are not able to add value by helping companies grow internationally, then we are not able to create value for you as an investor.",
+        "pt-BR": "Para nós, o venture capital está dividido em três fases: desenvolvimento tecnológico, prova de conceito e expansão comercial e geográfica. Não investimos na fase de desenvolvimento tecnológico e, embora possamos estar próximos da fase de prova de conceito, o nosso foco principal está na execução comercial e na expansão internacional. Entendemos que esta é a única forma sustentável de alcançar valorizações mais elevadas. Se não formos capazes de acrescentar valor ajudando as empresas a crescer internacionalmente, então também não seremos capazes de criar valor para si enquanto investidor."
+    }
+},
+{
+    "id": "next_tech_exit_strategy_retruns",
+    "title": "Next Tech Exit Strategy Retruns",
+    "imageUrl": "slides/Next-Tech/next_tech_exit_strategy_retruns.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_exit_strategy_retruns.mp4",
+    "description": "Explains how Next Tech Fund I plans to generate returns through exits such as acquisitions, mergers, IPOs, or secondary market sales.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Our first priority is to help these companies expand into new markets, moving from Portugal to Spain, then to France, Germany, the UK, and the Nordics, in order to find new clients who, like us, recognize the strength of the business and the quality of the product. Once the company is established in five or six European markets and its position is consolidated, the next step is to expand into the United States. We focus on the US because it hosts the largest, most liquid, and most valuable capital market in the world. In short, our strategy is to create value in Europe and ultimately materialize that value in the US.",
+        "en-UK": "Our first priority is to help these companies expand into new markets, moving from Portugal to Spain, then to France, Germany, the UK, and the Nordics, in order to find new clients who, like us, recognize the strength of the business and the quality of the product. Once the company is established in five or six European markets and its position is consolidated, the next step is to expand into the United States. We focus on the US because it hosts the largest, most liquid, and most valuable capital market in the world. In short, our strategy is to create value in Europe and ultimately materialize that value in the US.",
+        "pt-BR": "A nossa primeira prioridade é ajudar estas empresas a expandirem-se para novos mercados, começando por Portugal, depois Espanha, seguindo-se França, Alemanha, Reino Unido e os países nórdicos, de forma a encontrar novos clientes que, tal como nós, reconheçam a solidez do negócio e a qualidade do produto. Depois de a empresa estar estabelecida em cinco ou seis mercados europeus e com a sua posição consolidada, o passo seguinte é a expansão para os Estados Unidos. Focamo-nos nos EUA porque é o maior, mais líquido e mais valioso mercado de capitais do mundo."
+    }
+},
+{
+    "id": "next_tech_what_hapens_to_my_money",
+    "title": "Next Tech What Hapens To My Money",
+    "imageUrl": "slides/Next-Tech/next_tech_what_hapens_to_my_money.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_what_hapens_to_my_money.mp4",
+    "description": "Explains how investor capital is allocated, diversified, and managed throughout the life of the fund.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Here's how investing in the fund actually works. Think of it like building a traditional portfolio of companies, but we're really strategic about timing. We spread our investments over five years, putting money in at the right moments. Typically, we start with the initial capital in years one and two, then continue adding more throughout the remaining time. Why this approach? It lets us stay close to each business, watching how they grow and stepping in with guidance when they need it. The companies we partner with are completely open with us, there's genuine trust and transparency both ways. And here's something we're really proud of: we've managed to do what most Portuguese VC firms struggle with. We regularly bring international investors to the table, getting them involved in our companies' cap tables. It's a game-changer because it validates these businesses globally and spreads the risk significantly. When international players see the same potential we do, everyone benefits.",
+        "en-UK": "Here's how investing in the fund actually works. Think of it like building a traditional portfolio of companies, but we're really strategic about timing. We spread our investments over five years, putting money in at the right moments. Typically, we start with the initial capital in years one and two, then continue adding more throughout the remaining time. Why this approach? It lets us stay close to each business, watching how they grow and stepping in with guidance when they need it. The companies we partner with are completely open with us, there's genuine trust and transparency both ways. And here's something we're really proud of: we've managed to do what most Portuguese VC firms struggle with. We regularly bring international investors to the table, getting them involved in our companies' cap tables. It's a game-changer because it validates these businesses globally and spreads the risk significantly. When international players see the same potential we do, everyone benefits.",
+        "pt-BR": "Aqui está como funciona realmente investir no fundo. Pense nisso como construir um portfólio tradicional de empresas, mas somos muito estratégicos quanto ao timing. Distribuímos os nossos investimentos ao longo de cinco anos, colocando dinheiro nos momentos certos. Normalmente, começamos com o capital inicial nos anos um e dois, depois continuamos a adicionar mais durante o tempo restante. Porquê esta abordagem? Permite-nos ficar perto de cada negócio, observando como crescem e intervindo com orientação quando precisam. As empresas com quem fazemos parceria são completamente abertas connosco, há confiança genuína e transparência nos dois sentidos. E aqui está algo de que temos muito orgulho: conseguimos fazer o que a maioria das empresas portuguesas de capital de risco têm dificuldade. Trazemos regularmente investidores internacionais para a mesa, envolvendo-os nas cap tables das nossas empresas. É transformador porque valida estes negócios globalmente e distribui o risco significativamente. Quando players internacionais veem o mesmo potencial que nós, todos beneficiam."
+    }
+},
+{
+    "id": "next_tech_investment_cashflow_performance",
+    "title": "Next Tech Investment Cashflow Performance",
+    "imageUrl": "slides/Next-Tech/next_tech_investment_cashflow_performance.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_investment_cashflow_performance.mp4",
+    "description": "Describes the investment cashflow profile, expected returns, and internal rate of return of the fund.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "So, we're not distributing dividends right now. Instead, we're focused on something better, letting your investment grow through compound capitalization. What does that mean for you? Well, while the fund has a longer timeline overall, we're targeting returns of around 2x your initial investment. Your money stays in the fund, working and growing, rather than being paid out along the way.",
+        "en-UK": "So, we're not distributing dividends right now. Instead, we're focused on something better, letting your investment grow through compound capitalization. What does that mean for you? Well, while the fund has a longer timeline overall, we're targeting returns of around 2x your initial investment. Your money stays in the fund, working and growing, rather than being paid out along the way.",
+        "pt-BR": "Então, não estamos a distribuir dividendos neste momento. Em vez disso, focamo-nos em algo melhor, deixar o seu investimento crescer através da capitalização composta. O que significa isso para si? Bem, embora o fundo tenha um cronograma mais longo no geral, estamos a visar retornos de cerca de duas vezes o seu investimento inicial. O seu dinheiro fica no fundo, a trabalhar e a crescer, em vez de ser pago ao longo do caminho."
+    }
+},
+{
+    "id": "next_tech_portfolio_overview",
+    "title": "Next Tech Portfolio Overview",
+    "imageUrl": "slides/Next-Tech/next_tech_portfolio_overview.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_portfolio_overview.mp4",
+    "description": "Provides an overview of the Next tech fund’s portfolio structure, diversification, and investment stages.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Let me walk you through our portfolio companies, this is where it gets really exciting. They're all tech, but the variety is incredible. Take Kit-ar, for example. They build AR software for goggles, and they're already working with Bentley in the UK in their manufacturing plants. Plus, they've got pilot projects with Porsche, Peugeot, and even Boeing. It's amazing watching them transform how these industries work. Then we've got fintech plays like Paynest and Identify. Identify's doing something really interesting, they're powering banking and healthcare communications in Portugal and Spain. They handle a massive chunk of calls for major banks, including Portugal's state-owned bank. And in the US, they're working with top healthcare institutions. The traction they're seeing validates everything we believed about them. Sensei is one I'm particularly excited about. They've built what might be the most advanced smart retail system out there. Walk into a store, grab what you need, walk out, completely frictionless. Store owners get real-time insights on everything, and brands can engage directly with shoppers through the platform. We've been with them from day one, and it's been incredible to watch. Now, Tonic App is what people jokingly call 'Doctor Google', but it's exclusively for actual doctors. Only verified medical professionals can use it, which makes the network incredibly valuable. We're talking about 75% of doctors in Portugal, similar reach in Spain and Italy, and we're pushing into France, Germany, and the UK. Every interaction generates data that's gold for pharma companies, positioning Tonic right at the center of healthcare innovation. We're also big on IoT and automation. Companies like Ubetter, IVV, and Bandola Qbetter are tackling everything from queue management to home automation to agricultural robots. IVV's building autonomous tractors that are being tested in some pretty harsh conditions in northern Spain, they need to work anywhere, in any weather. And Pandora's smart energy solutions are already deployed in Portugal, Brazil, and the US. What you're seeing here is serious diversification. But honestly? What gets me most excited isn't just the technology or the growth potential, it's the real-world impact. These companies are transforming retail, revolutionizing healthcare, advancing automation, pushing sustainable energy. That's our whole approach at BlueCrow: find companies with breakthrough tech and strong teams, then roll up our sleeves and help them scale globally. We're creating value for everyone, investors, customers, the broader market. And the best part? We're just getting started.",
+        "en-UK": "Let me walk you through our portfolio companies, this is where it gets really exciting. They're all tech, but the variety is incredible. Take Kit-ar, for example. They build AR software for goggles, and they're already working with Bentley in the UK in their manufacturing plants. Plus, they've got pilot projects with Porsche, Peugeot, and even Boeing. It's amazing watching them transform how these industries work. Then we've got fintech plays like Paynest and Identify. Identify's doing something really interesting, they're powering banking and healthcare communications in Portugal and Spain. They handle a massive chunk of calls for major banks, including Portugal's state-owned bank. And in the US, they're working with top healthcare institutions. The traction they're seeing validates everything we believed about them. Sensei is one I'm particularly excited about. They've built what might be the most advanced smart retail system out there. Walk into a store, grab what you need, walk out, completely frictionless. Store owners get real-time insights on everything, and brands can engage directly with shoppers through the platform. We've been with them from day one, and it's been incredible to watch. Now, Tonic App is what people jokingly call 'Doctor Google', but it's exclusively for actual doctors. Only verified medical professionals can use it, which makes the network incredibly valuable. We're talking about 75% of doctors in Portugal, similar reach in Spain and Italy, and we're pushing into France, Germany, and the UK. Every interaction generates data that's gold for pharma companies, positioning Tonic right at the center of healthcare innovation. We're also big on IoT and automation. Companies like Ubetter, IVV, and Bandola Qbetter are tackling everything from queue management to home automation to agricultural robots. IVV's building autonomous tractors that are being tested in some pretty harsh conditions in northern Spain, they need to work anywhere, in any weather. And Pandora's smart energy solutions are already deployed in Portugal, Brazil, and the US. What you're seeing here is serious diversification. But honestly? What gets me most excited isn't just the technology or the growth potential, it's the real-world impact. These companies are transforming retail, revolutionizing healthcare, advancing automation, pushing sustainable energy. That's our whole approach at BlueCrow: find companies with breakthrough tech and strong teams, then roll up our sleeves and help them scale globally. We're creating value for everyone, investors, customers, the broader market. And the best part? We're just getting started.",
+        "pt-BR": "Deixe-me falar-lhe sobre as nossas empresas de portfólio, é aqui que fica realmente emocionante. São todas tecnológicas, mas a variedade é incrível. Veja a Kit-ar, por exemplo. Constroem software de AR para óculos, e já estão a trabalhar com a Bentley no Reino Unido nas suas fábricas. Além disso, têm projetos piloto com a Porsche, Peugeot, e até a Boeing. É incrível vê-los transformar como estas indústrias funcionam. Depois temos apostas fintech como a Paynest e Identify. A Identify está a fazer algo realmente interessante, estão a alimentar comunicações bancárias e de saúde em Portugal e Espanha. Gerem uma enorme parte das chamadas para grandes bancos, incluindo o banco estatal português. E nos EUA, trabalham com instituições de saúde de topo. A tração que estão a ver valida tudo o que acreditávamos sobre eles. A Sensei é uma que me entusiasma particularmente. Construíram o que pode ser o sistema de retalho inteligente mais avançado lá fora. Entre numa loja, pegue no que precisa, saia, completamente sem atritos. Os proprietários das lojas obtêm insights em tempo real sobre tudo, e as marcas podem envolver-se diretamente com os compradores através da plataforma. Estamos com eles desde o primeiro dia, e tem sido incrível assistir. Agora, a Tonic App é o que as pessoas chamam brincando de 'Google dos Médicos', mas é exclusivamente para médicos reais. Apenas profissionais médicos verificados podem usá-la, o que torna a rede incrivelmente valiosa. Estamos a falar de 75% dos médicos em Portugal, alcance semelhante em Espanha e Itália, e estamos a empurrar para França, Alemanha e Reino Unido. Cada interação gera dados que são ouro para empresas farmacêuticas, posicionando a Tonic mesmo no centro da inovação em saúde. Também apostamos forte em IoT e automação. Empresas como Ubetter, IVV e Bandola Qbetter estão a abordar tudo, desde gestão de filas até automação doméstica e robots agrícolas. A IVV está a construir tratores autónomos que estão a ser testados em condições bastante duras no norte de Espanha, precisam funcionar em qualquer lugar, em qualquer clima. E as soluções de energia inteligente da Pandora já estão implementadas em Portugal, Brasil e EUA. O que está a ver aqui é diversificação séria. Mas honestamente? O que mais me entusiasma não é apenas a tecnologia ou o potencial de crescimento, é o impacto no mundo real. Estas empresas estão a transformar o retalho, revolucionar a saúde, avançar a automação, impulsionar energia sustentável. Essa é toda a nossa abordagem na BlueCrow: encontrar empresas com tecnologia inovadora e equipas fortes, depois arregaçar as mangas e ajudá-las a escalar globalmente. Estamos a criar valor para todos, investidores, clientes, o mercado em geral. E a melhor parte? Estamos apenas a começar."
+    }
+},
+{
+    "id": "next_tech_sample_portfolio_companies",
+    "title": "Next Tech Sample Portfolio Companies",
+    "imageUrl": "slides/Next-Tech/next_tech_sample_portfolio_companies.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_sample_portfolio_companies.mp4",
+    "description": "Showcases examples of portfolio companies and illustrates the types of businesses the Next Tech fund invests in.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "To give you a concrete sense of the portfolio, the fund has invested in companies such as Sensei, which develops autonomous retail technology using AI and computer vision, and Tonic Easy Medical, a platform designed by doctors to streamline clinical practice. Other investments include AgentifAI and BIGgroup, which focus on AI-driven automation and e-commerce enablement. These examples illustrate the diversity of sectors, technologies, and business models within the portfolio.",
+        "en-UK": "To give you a concrete sense of the portfolio, the fund has invested in companies such as Sensei, which develops autonomous retail technology using AI and computer vision, and Tonic Easy Medical, a platform designed by doctors to streamline clinical practice. Other investments include AgentifAI and BIGgroup, which focus on AI-driven automation and e-commerce enablement. These examples illustrate the diversity of sectors, technologies, and business models within the portfolio.",
+        "pt-BR": "Para tornar isto mais concreto, o fundo investiu em empresas como a Sensei, que desenvolve tecnologia de retalho autónomo, e a Tonic Easy Medical, uma plataforma digital criada por médicos para médicos. Estes exemplos ilustram bem a diversidade e profundidade tecnológica do portefólio."
+    }
+},
+{
+    "id": "next_tech_how_safe_is_my_money",
+    "title": "Next Tech How Safe Is My Money",
+    "imageUrl": "slides/Next-Tech/next_tech_how_safe_is_my_money.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_how_safe_is_my_money.mp4",
+    "description": "Explains how risk is managed through due diligence, governance, diversification, and active oversight.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Protecting investor capital is a core priority. Before investing, each company undergoes a thorough assessment covering financial health, market positioning, competitive landscape, and management capability. The fund also works with specialised external partners for legal, fiscal, and technical evaluations. After investment, BlueCrow often takes board positions and actively monitors performance, ensuring that growth objectives remain aligned with investor interests and that risks are managed proactively.",
+        "en-UK": "Protecting investor capital is a core priority. Before investing, each company undergoes a thorough assessment covering financial health, market positioning, competitive landscape, and management capability. The fund also works with specialised external partners for legal, fiscal, and technical evaluations. After investment, BlueCrow often takes board positions and actively monitors performance, ensuring that growth objectives remain aligned with investor interests and that risks are managed proactively.",
+        "pt-BR": "A proteção do capital é uma prioridade fundamental. Antes de investir, cada empresa passa por uma análise rigorosa a nível financeiro, legal e estratégico. Após o investimento, o fundo acompanha ativamente o desempenho e, em muitos casos, participa nos órgãos de gestão, garantindo que os riscos são identificados e geridos de forma proativa."
+    }
+},
+{
+    "id": "next_tech_fund_summary_fees",
+    "title": "Next Tech Fund Summary Fees",
+    "imageUrl": "slides/Next-Tech/next_tech_fund_summary_fees.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_fund_summary_fees.mp4",
+    "description": "Summarises the key characteristics of Next Tech Fund I, including minimum investment, Golden Visa eligibility, fund duration, and fee structure.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Now, let me walk you through the investment terms of the fund in a simple and friendly way. The minimum investment is €50,000. From that amount, we apply a one-time setup fee of 3%, which we deduct when you join the fund. After that, there’s a management fee of 2% per year. This covers the day-to-day work of managing the portfolio, supporting companies, and generating value. We also have a performance fee of 20%, but with a very important mechanism called the hurdle rate, set at 5%. What does that mean in practice? Imagine we deliver you a 10% return in a given year. The first 5% belongs entirely to you, we don’t take any performance fee on that part. Only the additional 5% above the hurdle is subject to the 20% performance fee. So we only win when you win, and only on the portion that exceeds the 5% benchmark. In terms of oversight and security, the fund is fully regulated by CMVM, which is the Portuguese financial regulatory authority. Our auditor is Mazars, a highly reputable international audit firm, and our depositary bank, the institution that safeguards the fund’s assets, is Millennium BCP. So overall, everything is built to be transparent, well-regulated, and aligned with your success as an investor.",
+        "en-UK": "Now, let me walk you through the investment terms of the fund in a simple and friendly way. The minimum investment is €50,000. From that amount, we apply a one-time setup fee of 3%, which we deduct when you join the fund. After that, there’s a management fee of 2% per year. This covers the day-to-day work of managing the portfolio, supporting companies, and generating value. We also have a performance fee of 20%, but with a very important mechanism called the hurdle rate, set at 5%. What does that mean in practice? Imagine we deliver you a 10% return in a given year. The first 5% belongs entirely to you, we don’t take any performance fee on that part. Only the additional 5% above the hurdle is subject to the 20% performance fee. So we only win when you win, and only on the portion that exceeds the 5% benchmark. In terms of oversight and security, the fund is fully regulated by CMVM, which is the Portuguese financial regulatory authority. Our auditor is Mazars, a highly reputable international audit firm, and our depositary bank, the institution that safeguards the fund’s assets, is Millennium BCP. So overall, everything is built to be transparent, well-regulated, and aligned with your success as an investor.",
+        "pt-BR": "Agora, deixe-me explicar-lhe os termos de investimento do fundo de forma simples e amigável. O investimento mínimo é de €50.000. Deste montante, aplicamos uma taxa única de configuração de 3%, que deduzimos quando adere ao fundo. Depois disso, há uma taxa de gestão de 2% por ano. Isto cobre o trabalho diário de gerir o portfólio, apoiar empresas e gerar valor. Também temos uma taxa de performance de 20%, mas com um mecanismo muito importante chamado hurdle rate, fixado em 5%. O que significa isto na prática? Imagine que lhe entregamos um retorno de 10% num determinado ano. Os primeiros 5% pertencem inteiramente a si, não cobramos qualquer taxa de performance sobre essa parte. Apenas os 5% adicionais acima do hurdle estão sujeitos à taxa de performance de 20%. Portanto, só ganhamos quando você ganha, e apenas sobre a porção que excede a referência de 5%. Em termos de supervisão e segurança, o fundo é totalmente regulado pela CMVM, que é a autoridade reguladora financeira portuguesa. O nosso auditor é a Mazars, uma firma de auditoria internacional altamente reputada, e o nosso banco depositário, a instituição que salvaguarda os ativos do fundo, é o Millennium BCP. Portanto, no geral, tudo está construído para ser transparente, bem regulado e alinhado com o seu sucesso como investidor."
+    }
+},
+{
+    "id": "next_tech_investment_timeline",
+    "title": "Next Tech Investment Timeline",
+    "imageUrl": "slides/Next-Tech/next_tech_investment_timeline.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_investment_timeline.mp4",
+    "description": "Explains the expected investment timeline, including capital deployment, stabilisation, and exit phases of the next tech fund.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "the fund is listed on Euronext Europe, which means that any investor across Europe can buy or sell shares of the fund. The fund is expected to liquidate from 2033 onwards.",
+        "en-UK": "the fund is listed on Euronext Europe, which means that any investor across Europe can buy or sell shares of the fund. The fund is expected to liquidate from 2033 onwards.",
+        "pt-BR": "O fundo está listado na Euronext Europe, o que significa que qualquer investidor na Europa pode comprar ou vender cotas do fundo. O fundo está previsto para liquidar a partir de 2033."
+    }
+},
+{
+    "id": "next_tech_investment_exit_strategy",
+    "title": "Next Tech Investment Exit Strategy",
+    "imageUrl": "slides/Next-Tech/next_tech_investment_exit_strategy.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_investment_exit_strategy.mp4",
+    "description": "Details how and when exits are expected to occur and how liquidity is created for investors of the next tech fund.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "listing the fund not only provides investors with an early exit opportunity but also gives us significant market exposure for the companies we invest in. It ensures continuous market valuation and naturally increases transparency and scrutiny of our activities.",
+        "en-UK": "listing the fund not only provides investors with an early exit opportunity but also gives us significant market exposure for the companies we invest in. It ensures continuous market valuation and naturally increases transparency and scrutiny of our activities.",
+        "pt-BR": "A listagem do fundo não apenas oferece aos investidores uma oportunidade de saída antecipada, como também nos proporciona exposição significativa no mercado para as empresas nas quais investimos. Isso garante uma valorização contínua de mercado e aumenta naturalmente a transparência e o escrutínio das nossas atividades."
+    }
+},
+{
+    "id": "next_tech_fund_factsheet",
+    "title": "Next Tech Fund Factsheet",
+    "imageUrl": "slides/Next-Tech/next_tech_fund_factsheet.PNG",
+    "videoUrl": "videos/Next-Tech/next_tech_fund_factsheet.mp4",
+    "description": "Provides a concise, factual overview of the Next Tech fund’s structure, objectives, and regulatory status.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "While you are not a tax resident in Portugal, you are exempt from taxation. If you become a tax resident, your investments will be taxed at a rate of 10%.",
+        "en-UK": "While you are not a tax resident in Portugal, you are exempt from taxation. If you become a tax resident, your investments will be taxed at a rate of 10%.",
+        "pt-BR": "Enquanto você não for residente fiscal em Portugal, estará isento de tributação. Caso se torne residente fiscal, os seus investimentos serão taxados a uma taxa de 10%."
+    }
+},
+{
+    "id": "agrobusiness_fund_intro",
+    "title": "Agrobusiness Fund Intro",
+    "imageUrl": "slides/Agrobusiness/agrobusiness_fund_intro.PNG",
+    "videoUrl": "videos/Agrobusiness/agrobusiness_fund_intro.mp4",
+    "description": "",
+    "QnA": false,
+    "pitchScript": {
+        "en-US": "Today, I’d like to introduce our Agrobusiness Fund! This fund was designed to give investors access to a diversified portfolio of agricultural assets in Portugal, with a strong focus on sustainability, innovation, and long-term value creation. It brings together modern agricultural practices, technology-driven production models, and sectors with strong economic and social relevance, all within a professionally managed and regulated fund structure.",
+        "en-UK": "Today, I’d like to introduce our Agrobusiness Fund! This fund was designed to give investors access to a diversified portfolio of agricultural assets in Portugal, with a strong focus on sustainability, innovation, and long-term value creation. It brings together modern agricultural practices, technology-driven production models, and sectors with strong economic and social relevance, all within a professionally managed and regulated fund structure.",
+        "pt-BR": "Hoje, gostaria de apresentar o nosso Agrobusiness Fund! Este fundo foi criado para dar aos investidores acesso a um portfólio diversificado de ativos agrícolas em Portugal, com um forte foco na sustentabilidade, na inovação e na criação de valor a longo prazo. Reúne práticas agrícolas modernas, modelos de produção orientados pela tecnologia e setores com elevada relevância económica e social, tudo dentro de uma estrutura de fundo profissionalmente gerida e regulada."
+    }
+},
+{
+    "id": "agrobusiness_fund_manager",
+    "title": "Agrobusiness Fund Manager",
+    "imageUrl": "slides/Agrobusiness/agrobusiness_fund_manager.PNG",
+    "videoUrl": "videos/Agrobusiness/agrobusiness_fund_manager.mp4",
+    "description": "Introduces the Agrobusiness fund managers, highlighting their experience, roles, and investment expertise.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "The Agrobusiness Fund is managed by a highly experienced team with complementary skill sets. António Mello Campello, Founding Partner at BlueCrow, brings over twenty-five years of experience in capital markets, private equity, and alternative investments. He leads the firm’s private equity strategy and fund management activities. Duarte Calheiros e Menezes, who joined BlueCrow in 2014, leads fundraising and investor relations. With more than eighteen years of experience in asset structuring and management, he has played a key role in scaling the firm and successfully raising capital across multiple fund strategies.",
+        "en-UK": "The Agrobusiness Fund is managed by a highly experienced team with complementary skill sets. António Mello Campello, Founding Partner at BlueCrow, brings over twenty-five years of experience in capital markets, private equity, and alternative investments. He leads the firm’s private equity strategy and fund management activities. Duarte Calheiros e Menezes, who joined BlueCrow in 2014, leads fundraising and investor relations. With more than eighteen years of experience in asset structuring and management, he has played a key role in scaling the firm and successfully raising capital across multiple fund strategies.",
+        "pt-BR": "O Fundo de Agrobusiness é gerido por uma equipe altamente experiente e com competências complementares. António Mello Campello, sócio fundador da BlueCrow, possui mais de vinte e cinco anos de experiência em mercados financeiros, private equity e investimentos alternativos, liderando a estratégia de private equity e a gestão dos fundos. Duarte Calheiros e Menezes, que ingressou na BlueCrow em 2014, é responsável pela área de captação e relacionamento com investidores. Com mais de dezoito anos de experiência em estruturação e gestão de ativos, teve um papel fundamental no crescimento da empresa e na captação de recursos para diversos fundos."
+    }
+},
+{
+    "id": "agrobusiness_growth_fund_1",
+    "title": "Agrobusiness Growth Fund 1",
+    "imageUrl": "slides/Agrobusiness/agrobusiness_growth_fund_1.PNG",
+    "videoUrl": "videos/Agrobusiness/agrobusiness_growth_fund_1.mp4",
+    "description": "Highlights BlueCrow Capital’s historical experience by showing the Growth fund track record in private equity, asset management, and Golden Visa–eligible funds.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "This really began in a significant way in 2018 with the launch of the BlueCrow Growth Fund, which marked our first major step into the private equity sector. We initially raised capital from a group of private investors to kick-start the fund’s activity, and from 2019 onwards we saw a strong increase in demand from investors seeking Golden Visa opportunities. Today, the fund has close to 500 Golden Visa investors and is currently our largest investment vehicle. Its focus is on private equity, and it has been listed on the stock exchange since July of this year. It is a fund with substantial scale, operating fully in line with its defined objectives, currently managing more than 50 assets and delivering consistent performance, which allows us to pay a steady annual dividend of 5% to our investors.",
+        "en-UK": "This really began in a significant way in 2018 with the launch of the BlueCrow Growth Fund, which marked our first major step into the private equity sector. We initially raised capital from a group of private investors to kick-start the fund’s activity, and from 2019 onwards we saw a strong increase in demand from investors seeking Golden Visa opportunities. Today, the fund has close to 500 Golden Visa investors and is currently our largest investment vehicle. Its focus is on private equity, and it has been listed on the stock exchange since July of this year. It is a fund with substantial scale, operating fully in line with its defined objectives, currently managing more than 50 assets and delivering consistent performance, which allows us to pay a steady annual dividend of 5% to our investors.",
+        "pt-BR": "Isso realmente começou de forma significativa em 2018, com o lançamento do BlueCrow Growth Fund, que marcou nosso primeiro grande passo no setor de private equity. Inicialmente, captamos recursos junto a um grupo de investidores privados para dar início às atividades do fundo e, a partir de 2019, observamos um forte aumento na demanda de investidores interessados em oportunidades ligadas ao Golden Visa. Atualmente, o fundo conta com cerca de 500 investidores Golden Visa e é hoje o nosso maior veículo de investimento. Seu foco é em private equity e ele está listado na bolsa de valores desde julho deste ano. Trata-se de um fundo de grande escala, que opera totalmente alinhado aos seus objetivos definidos, gerindo atualmente mais de 50 ativos e apresentando um desempenho consistente, o que nos permite pagar um dividendo anual estável de 5% aos nossos investidores."
+    }
+},
+{
+    "id": "agrobusiness_growth_fund_2",
+    "title": "Agrobusiness Growth Fund 2",
+    "imageUrl": "slides/Agrobusiness/agrobusiness_growth_fund_2.PNG",
+    "videoUrl": "videos/Agrobusiness/agrobusiness_growth_fund_2.mp4",
+    "description": "Presents key performance indicators and outcomes from BlueCrow Growth Fund, including yield, appreciation, and investor base.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "The Growth Fund has built a strong performance track record since its launch. The fund delivered an annual dividend yield of approximately five percent and achieved capital appreciation close to nine percent. It attracted over five hundred Golden Visa investors and built a diversified portfolio across more than fifty assets. This performance reflects BlueCrow’s disciplined investment approach and its ability to generate stable returns while preserving capital.",
+        "en-UK": "The Growth Fund has built a strong performance track record since its launch. The fund delivered an annual dividend yield of approximately five percent and achieved capital appreciation close to nine percent. It attracted over five hundred Golden Visa investors and built a diversified portfolio across more than fifty assets. This performance reflects BlueCrow’s disciplined investment approach and its ability to generate stable returns while preserving capital.",
+        "pt-BR": "O Growth Fund apresentou um desempenho sólido desde o seu lançamento. O fundo gerou um dividendo anual em torno de cinco por cento e alcançou uma valorização de capital próxima de nove por cento. Atraiu mais de quinhentos investidores do Golden Visa e construiu um portfólio diversificado com mais de cinquenta ativos. Esses resultados refletem a abordagem disciplinada da BlueCrow e a sua capacidade de gerar retornos estáveis com preservação de capital."
+    }
+},
+{
+    "id": "agrobusiness_investment_policy_target_sectors",
+    "title": "Agrobusiness Investment Policy Target Sectors",
+    "imageUrl": "slides/Agrobusiness/agrobusiness_investment_policy_target_sectors.PNG",
+    "videoUrl": "videos/Agrobusiness/agrobusiness_investment_policy_target_sectors.mp4",
+    "description": "Demonstrates BlueCrow’s experience in developing and managing agricultural and agrobusiness assets.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "It was through this ability to understand venture capital funds that we developed our activity in the agribusiness sector, which became one of the initial core focuses of the Growth Fund. Within this fund, we built deep knowledge that allowed us to identify four new investment areas in Agrobusiness that, in our view, offer significant value creation opportunities. As a result, the AgroBusiness fund is focused on four main areas. The first is hydroponics, which involves the use of water-based systems for crop development, mainly medium- and long-term projects in vegetable production for human consumption. The second area is equestrian tourism, where we are working with a private developer who has secured an exceptional agreement with an international equestrian athletics team and plans to build a high-performance center in Portugal, focusing on the horse as an Olympic athlet, a project in which we will actively participate. The third area is livestock, where we aim to create one of the largest sheep herds based in Portugal, enabling value growth and monetization over time. Finally, we are also focused on permanent crops, representing more traditional agriculture, where we are working with several farmers and have already secured a multi-year agreement to develop intensive and super-intensive olive grove projects in the Ribatejo region, which we expect to generate attractive returns.",
+        "en-UK": "It was through this ability to understand venture capital funds that we developed our activity in the agribusiness sector, which became one of the initial core focuses of the Growth Fund. Within this fund, we built deep knowledge that allowed us to identify four new investment areas in Agrobusiness that, in our view, offer significant value creation opportunities. As a result, the AgroBusiness fund is focused on four main areas. The first is hydroponics, which involves the use of water-based systems for crop development, mainly medium- and long-term projects in vegetable production for human consumption. The second area is equestrian tourism, where we are working with a private developer who has secured an exceptional agreement with an international equestrian athletics team and plans to build a high-performance center in Portugal, focusing on the horse as an Olympic athlet, a project in which we will actively participate. The third area is livestock, where we aim to create one of the largest sheep herds based in Portugal, enabling value growth and monetization over time. Finally, we are also focused on permanent crops, representing more traditional agriculture, where we are working with several farmers and have already secured a multi-year agreement to develop intensive and super-intensive olive grove projects in the Ribatejo region, which we expect to generate attractive returns.",
+        "pt-BR": "Foi por meio dessa capacidade de compreender os fundos de venture capital que desenvolvemos nossa atuação no setor de agronegócio, que se tornou um dos focos iniciais centrais do Growth Fund. Dentro desse fundo, construímos um conhecimento profundo que nos permitiu identificar quatro novas áreas de investimento em agronegócio que, na nossa visão, oferecem oportunidades relevantes de criação de valor. Como resultado, o fundo de agronegócio está concentrado em quatro áreas principais. A primeira é a agroponia, que envolve o uso de sistemas baseados em água para o desenvolvimento de culturas, principalmente projetos de médio e longo prazo voltados à produção de vegetais para consumo humano. A segunda área é o turismo equestre, na qual estamos trabalhando com um desenvolvedor privado que garantiu um acordo excepcional com uma equipe internacional de atletismo equestre e planeja construir em Portugal um centro de alto desempenho focado no cavalo como atleta olímpico, um projeto do qual participaremos ativamente. A terceira área é a pecuária, onde buscamos criar um dos maiores rebanhos de ovinos com base em Portugal, permitindo crescimento de valor e monetização ao longo do tempo. Por fim, também estamos focados em culturas permanentes, representando a agricultura mais tradicional, trabalhando com diversos agricultores e já tendo assegurado um acordo plurianual para desenvolver projetos de olivais intensivos e superintensivos na região do Ribatejo, que esperamos gerar retornos atrativos."
+    }
+},
+{
+    "id": "agrobusiness_what_happens_to_my_money",
+    "title": "Agrobusiness What Happens To My Money",
+    "imageUrl": "slides/Agrobusiness/agrobusiness_what_happens_to_my_money.PNG",
+    "videoUrl": "videos/Agrobusiness/agrobusiness_what_happens_to_my_money.mp4",
+    "description": "Explains how investor capital is allocated, diversified, and managed throughout the lifecycle of the Agrobusiness Fund.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "How is the investment process carried out? Within this fund, we have set up a group of companies that will hold the assets in which we invest. These assets are expected to generate an average annual return of 6 to 10%. From this return, 3% is paid out to investors each year as dividends, while the remainder is reinvested back into the companies to build capital within these investment vehicles.",
+        "en-UK": "How is the investment process carried out? Within this fund, we have set up a group of companies that will hold the assets in which we invest. These assets are expected to generate an average annual return of 6 to 10%. From this return, 3% is paid out to investors each year as dividends, while the remainder is reinvested back into the companies to build capital within these investment vehicles.",
+        "pt-BR": "Como é realizado o processo de investimento? Dentro deste fundo, criamos um grupo de empresas que irão detentar os ativos nos quais investimos. Espera-se que esses ativos gerem um retorno anual médio de 6% a 10%. Desse retorno, 3% é pago anualmente aos investidores como dividendos, enquanto o restante é reinvestido nas empresas para construir capital dentro desses veículos de investimento."
+    }
+},
+{
+    "id": "agrobusiness_investment_cashflow_performance",
+    "title": "Agrobusiness Investment Cashflow Performance",
+    "imageUrl": "slides/Agrobusiness/agrobusiness_investment_cashflow_performance.PNG",
+    "videoUrl": "videos/Agrobusiness/agrobusiness_investment_cashflow_performance.mp4",
+    "description": "Describes the expected cashflow profile, income generation, and return dynamics of the Agrobusiness Fund.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "So, for an investor putting €500,000 into the fund, they would start receiving 3%, which amounts to €15,000 per year. By the end of the fund’s term, we expect to generate additional value, allowing investors to recover not only their initial capital but also a modest extra gain.",
+        "en-UK": "So, for an investor putting €500,000 into the fund, they would start receiving 3%, which amounts to €15,000 per year. By the end of the fund’s term, we expect to generate additional value, allowing investors to recover not only their initial capital but also a modest extra gain.",
+        "pt-BR": "O perfil de retorno do fundo combina geração de caixa recorrente com valorização de capital no longo prazo. As operações agrícolas começam a gerar renda à medida que a produção aumenta, enquanto a valorização da terra e a otimização dos ativos contribuem para o crescimento do capital ao longo do tempo. Essa combinação ajuda a reduzir a volatilidade e a equilibrar risco e retorno."
+    }
+},
+{
+    "id": "agrobusiness_hydroponics_1",
+    "title": "Agrobusiness Hydroponics 1",
+    "imageUrl": "slides/Agrobusiness/agrobusiness_hydroponics_1.PNG",
+    "videoUrl": "videos/Agrobusiness/agrobusiness_hydroponics_1.mp4",
+    "description": "Introduces hydroponics as a core investment theme, explaining why it is strategically attractive within modern agrobusiness.  Explains the global and European market opportunity for hydroponic agriculture and controlled-environment farming.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Going a bit deeper into each of these sectors, the first one is hydroponics. We have been developing a very interesting project in partnership with a non-governmental organization that supports children with certain disabilities in their personal development, while also promoting the cultivation of vegetables through hydroponic systems. As part of this initiative, we are creating a partnership with the University of Agronomy in Lisbon, where we see both the space and the interest to build a joint project involving the NGO, the Instituto Superior de Agronomia, and BlueCrow. The goal is to create a dedicated space for new agricultural technologies, which today essentially means hydroponic systems. We have already established several commercial relationships for the sale of the products grown in these new greenhouses, and we are now in the final stages of preparing the construction of the hydroponic greenhouses on the land that has been allocated to us.",
+        "en-UK": "Going a bit deeper into each of these sectors, the first one is hydroponics. We have been developing a very interesting project in partnership with a non-governmental organization that supports children with certain disabilities in their personal development, while also promoting the cultivation of vegetables through hydroponic systems. As part of this initiative, we are creating a partnership with the University of Agronomy in Lisbon, where we see both the space and the interest to build a joint project involving the NGO, the Instituto Superior de Agronomia, and BlueCrow. The goal is to create a dedicated space for new agricultural technologies, which today essentially means hydroponic systems. We have already established several commercial relationships for the sale of the products grown in these new greenhouses, and we are now in the final stages of preparing the construction of the hydroponic greenhouses on the land that has been allocated to us.",
+        "pt-BR": "Aprofundando um pouco cada um destes setores, o primeiro é a hidroponia. Temos vindo a desenvolver um projeto muito interessante em parceria com uma organização não governamental que apoia crianças com determinadas deficiências no seu desenvolvimento pessoal, promovendo simultaneamente o cultivo de vegetais através de sistemas hidropónicos. No âmbito desta iniciativa, estamos a criar uma parceria com a Universidade de Agronomia de Lisboa, onde identificámos tanto o espaço como o interesse para desenvolver um projeto conjunto que envolve a ONG, o Instituto Superior de Agronomia e a BlueCrow. O objetivo é criar um espaço dedicado a novas tecnologias agrícolas, que hoje se traduzem essencialmente em sistemas de hidroponia. Já estabelecemos várias relações comerciais para a venda dos produtos cultivados nestas novas estufas e encontramo-nos agora na fase final de preparação para a construção das estufas hidropónicas nos terrenos que nos foram alocados."
+    }
+},
+{
+    "id": "agrobusiness_hydroponics_2",
+    "title": "Agrobusiness Hydroponics 2",
+    "imageUrl": "slides/Agrobusiness/agrobusiness_hydroponics_2.PNG",
+    "videoUrl": "videos/Agrobusiness/agrobusiness_hydroponics_2.mp4",
+    "description": "Explains how hydroponic systems operate, including controlled environments, nutrient management, and productivity benefits.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "The fund has been raising capital over the years. At this point, we are already developing the hydroponics project, generating returns that we believe are well aligned with the risk of this initiative.",
+        "en-UK": "The fund has been raising capital over the years. At this point, we are already developing the hydroponics project, generating returns that we believe are well aligned with the risk of this initiative.",
+        "pt-BR": "Obviamente, o fundo tem captado capital ao longo dos anos. Neste momento, já estamos desenvolvendo o projeto de agroponia, gerando retornos que acreditamos estar bem alinhados com o risco desta iniciativa."
+    }
+},
+{
+    "id": "agrobusiness_livestock_1",
+    "title": "Agrobusiness Livestock 1",
+    "imageUrl": "slides/Agrobusiness/agrobusiness_livestock_1.PNG",
+    "videoUrl": "videos/Agrobusiness/agrobusiness_livestock_1.mp4",
+    "description": "In practical terms, hydroponic systems operate in controlled environments where plants receive precise amounts of water, nutrients, and light. This control significantly reduces waste, improves consistency, and increases output. Because production is less dependent on weather conditions, hydroponics enables predictable yields and reliable planning, which is particularly valuable from an investment perspective.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "For the livestock production sector, since 2023 we have been developing a sheep herd, taking advantage of the past years of drought that affected Portugal, which allowed us to acquire a large number of animals at very attractive prices. Unfortunately, the wool market has been weak, so our focus has been on meat production, which has performed very well, especially in export markets. The wool we harvest from our animals is being stored, with the expectation of better prices in the coming years. This process has been greatly facilitated by our partnership with OAA, another agricultural property managed by the fund, which has given us access to considerable land for this type of livestock operation.",
+        "en-UK": "For the livestock production sector, since 2023 we have been developing a sheep herd, taking advantage of the past years of drought that affected Portugal, which allowed us to acquire a large number of animals at very attractive prices. Unfortunately, the wool market has been weak, so our focus has been on meat production, which has performed very well, especially in export markets. The wool we harvest from our animals is being stored, with the expectation of better prices in the coming years. This process has been greatly facilitated by our partnership with OAA, another agricultural property managed by the fund, which has given us access to considerable land for this type of livestock operation.",
+        "pt-BR": "Na área de produção pecuária, desde 2023 estamos desenvolvendo um rebanho de ovinos, aproveitando os anos de seca que afetaram Portugal, o que nos permitiu adquirir um grande número de animais a preços muito atrativos. Infelizmente, o mercado de lã tem estado fraco, então nosso foco tem sido a produção de carne, que tem apresentado um desempenho muito bom, especialmente nos mercados de exportação. A lã que colhemos dos nossos animais está sendo armazenada, com a expectativa de melhores preços nos próximos anos. Esse processo foi bastante facilitado pela nossa parceria com a OAA, outra propriedade agrícola gerida pelo fundo, que nos deu acesso a terras consideráveis para esse tipo de operação pecuária."
+    }
+},
+{
+    "id": "agrobusiness_livestock_2",
+    "title": "Agrobusiness Livestock 2",
+    "imageUrl": "slides/Agrobusiness/agrobusiness_livestock_2.PNG",
+    "videoUrl": "videos/Agrobusiness/agrobusiness_livestock_2.mp4",
+    "description": "",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "we already have the company established and the investment in place, and we are continuously acquiring new animals for both meat and wool production.",
+        "en-UK": "we already have the company established and the investment in place, and we are continuously acquiring new animals for both meat and wool production.",
+        "pt-BR": "Na área de produção pecuária, já temos a empresa estabelecida e o investimento realizado, e estamos adquirindo continuamente novos animais tanto para produção de carne quanto de lã."
+    }
+},
+{
+    "id": "agrobusiness_equestrian_tourism_1",
+    "title": "Agrobusiness Equestrian Tourism 1",
+    "imageUrl": "slides/Agrobusiness/agrobusiness_equestrian_tourism_1.PNG",
+    "videoUrl": "videos/Agrobusiness/agrobusiness_equestrian_tourism_1.mp4",
+    "description": "Describes the equestrian tourism strategy, combining land assets, tourism demand, and experiential agriculture.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "In the equestrian toursim sector, the goal is to support a national plan to develop a technical and sports center for horses, primarily focused on dressage. This discipline highlights the Lusitano horse, a Portuguese breed with exceptional qualities. Through this project, we aim not only to create a high-performance training center but also to enhance and promote Portugal’s intangible heritage represented by this distinguished horse breed.",
+        "en-UK": "In the equestrian toursim sector, the goal is to support a national plan to develop a technical and sports center for horses, primarily focused on dressage. This discipline highlights the Lusitano horse, a Portuguese breed with exceptional qualities. Through this project, we aim not only to create a high-performance training center but also to enhance and promote Portugal’s intangible heritage represented by this distinguished horse breed.",
+        "pt-BR": "Na área de turismo equestre, o objetivo é apoiar um plano nacional para desenvolver um centro técnico e esportivo para cavalos, com foco principal em doma clássica (dressage). Esta disciplina destaca o cavalo Lusitano, uma raça portuguesa com qualidades excepcionais. Por meio deste projeto, buscamos não apenas criar um centro de treinamento de alto desempenho, mas também valorizar e promover o patrimônio imaterial de Portugal representado por esta distinta raça de cavalos."
+    }
+},
+{
+    "id": "agrobusiness_equestrian_tourism_2",
+    "title": "Agrobusiness Equestrian Tourism 2",
+    "imageUrl": "slides/Agrobusiness/agrobusiness_equestrian_tourism_2.PNG",
+    "videoUrl": "videos/Agrobusiness/agrobusiness_equestrian_tourism_2.mp4",
+    "description": "",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "this project has been recognized as a matter of national interest and has therefore benefited from a range of government support for its establishment in Portugal’s interior regions.",
+        "en-UK": "this project has been recognized as a matter of national interest and has therefore benefited from a range of government support for its establishment in Portugal’s interior regions.",
+        "pt-BR": "No setor equestre, este projeto foi reconhecido como de interesse nacional e, portanto, se beneficiou de uma série de apoios governamentais para seu estabelecimento nas regiões interiores de Portugal."
+    }
+},
+{
+    "id": "agrobusiness_sample_portfolio_companies",
+    "title": "Agrobusiness Sample Portfolio Companies",
+    "imageUrl": "slides/Agrobusiness/agrobusiness_sample_portfolio_companies.PNG",
+    "videoUrl": "videos/Agrobusiness/agrobusiness_sample_portfolio_companies.mp4",
+    "description": "Provides examples of assets and projects within the Agrobusiness Fund portfolio, illustrating diversification across agricultural segments.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "We are therefore very pleased that these three projects are already underway and progressing rapidly, allowing us to deliver highly attractive returns today and anticipate strong potential returns in the future.",
+        "en-UK": "We are therefore very pleased that these three projects are already underway and progressing rapidly, allowing us to deliver highly attractive returns today and anticipate strong potential returns in the future.",
+        "pt-BR": "Portanto, estamos muito satisfeitos que esses três projetos já estejam em andamento e avançando rapidamente, permitindo-nos gerar retornos altamente atrativos hoje e antecipar fortes retornos potenciais no futuro."
+    }
+},
+{
+    "id": "agrobusiness_fund_vision",
+    "title": "Agrobusiness Fund Vision",
+    "imageUrl": "slides/Agrobusiness/agrobusiness_fund_vision.PNG",
+    "videoUrl": "videos/Agrobusiness/agrobusiness_fund_vision.mp4",
+    "description": "Addresses investment risk by explaining failure risk levels and financial resilience of Portuguese startups.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "In this fund, we have already raised €36 million. Our target is to reach €100 million, which will allow us to invest in at least 10 different agriculture projects. So far, we have made investments in four projects, and the fund is scheduled for liquidation in 2033.",
+        "en-UK": "In this fund, we have already raised €36 million. Our target is to reach €100 million, which will allow us to invest in at least 10 different agriculture projects. So far, we have made investments in four projects, and the fund is scheduled for liquidation in 2033.",
+        "pt-BR": "Neste fundo, já captámos 36 milhões de euros. O nosso objetivo é atingir 100 milhões de euros, o que nos permitirá investir em pelo menos 10 projetos agrícolas diferentes. Até ao momento, já realizámos investimentos em quatro projetos, e o fundo está previsto para liquidar em 2033."
+    }
+},
+{
+    "id": "agrobusiness_fund_summary_fees",
+    "title": "Agrobusiness Fund Summary Fees",
+    "imageUrl": "slides/Agrobusiness/agrobusiness_fund_summary_fees.PNG",
+    "videoUrl": "videos/Agrobusiness/agrobusiness_fund_summary_fees.mp4",
+    "description": "Summarises the Agrobusiness Fund’s key characteristics, including strategy, fees, diversification, risk profile, and long-term objectives.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "The fund has a minimum investment of €100,000, so any investor can participate with this amount. There is an initial setup fee of 1.5%, which is deducted from the invested capital, and an annual management fee of 1.5%. The fund is set to liquidate in 2033, at which point the total performance will be calculated, and the fund will be entitled to a 20% performance fee on that total return. The fund is regulated by the CMVM, the main financial regulator in Portugal. Its auditor is Forbes Musars, and the custodian bank is Bison Bank.",
+        "en-UK": "The fund has a minimum investment of €100,000, so any investor can participate with this amount. There is an initial setup fee of 1.5%, which is deducted from the invested capital, and an annual management fee of 1.5%. The fund is set to liquidate in 2033, at which point the total performance will be calculated, and the fund will be entitled to a 20% performance fee on that total return. The fund is regulated by the CMVM, the main financial regulator in Portugal. Its auditor is Forbes Musars, and the custodian bank is Bison Bank.",
+        "pt-BR": "O fundo possui um investimento mínimo de 100.000 euros, de modo que qualquer investidor pode participar com esse valor. Há uma taxa inicial de setup de 1,5%, que é deduzida do capital investido, e uma taxa de administração anual de 1,5%. O fundo está previsto para ser liquidado em 2033, momento em que será calculado o desempenho total, e o fundo terá direito a uma taxa de performance de 20% sobre esse retorno total. O fundo é regulado pela CMVM, o principal órgão regulador financeiro em Portugal. Seu auditor é a Forbes Musars e o banco custodiante é o Bison Bank."
+    }
+},
+{
+    "id": "finance_fund_fund_intro",
+    "title": "Finance Fund Fund Intro",
+    "imageUrl": "slides/Finance-Fund/finance_fund_fund_intro.PNG",
+    "videoUrl": "videos/Finance-Fund/finance_fund_fund_intro.mp4",
+    "description": "",
+    "QnA": false,
+    "pitchScript": {
+        "en-US": "Let’s walk through how the finance fund is structured and what it aims to deliver to investors.",
+        "en-UK": "Let’s walk through how the finance fund is structured and what it aims to deliver to investors.",
+        "pt-BR": "Vamos explorar como o fundo Finance funciona e quais são os seus objetivos para os investidores."
+    }
+},
+{
+    "id": "finance_fund_growth_fund_1",
+    "title": "Finance Fund Growth Fund 1",
+    "imageUrl": "slides/Finance-Fund/finance_fund_growth_fund_1.PNG",
+    "videoUrl": "videos/Finance-Fund/finance_fund_growth_fund_1.mp4",
+    "description": "Presentation of BlueCrow Capital’s prior experience through the Growth Fund, highlighting assets under management, number of investors, asset diversification, dividend distribution, and capital preservation as evidence of execution capability.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "But very early on, investors began to see these funds as a highly attractive way to gain exposure to the Portuguese market.Why?Because we focused on investments in agribusiness, industry, hospitality, and, more recently, renewable energy assets, we were able to generate strong interest.We raised nearly €180 million in funds from our existing investors.We have even been able to list the fund on the stock market, providing some of these investors with liquidity for their direct exposure.Today, the fund is listed as one of the top 25 companies in Portugal and has more than 700 investors participating in it.",
+        "en-UK": "But very early on, investors began to see these funds as a highly attractive way to gain exposure to the Portuguese market.Why?Because we focused on investments in agribusiness, industry, hospitality, and, more recently, renewable energy assets, we were able to generate strong interest.We raised nearly €180 million in funds from our existing investors.We have even been able to list the fund on the stock market, providing some of these investors with liquidity for their direct exposure.Today, the fund is listed as one of the top 25 companies in Portugal and has more than 700 investors participating in it.",
+        "pt-BR": "Mas muito cedo, os investidores começaram a ver esses fundos como uma forma altamente atraente de se expor ao mercado português. Por quê? Porque ao focarmos em investimentos em agronegócio, indústria, hotelaria e, mais recentemente, em ativos de energia renovável, conseguimos gerar um forte interesse. Captamos cerca de 180 milhões de euros em fundos junto aos nossos investidores existentes. Conseguimos até listar o fundo na bolsa de valores, oferecendo a alguns desses investidores liquidez para sua exposição direta. Hoje, o fundo é listado como uma das 25 principais empresas em Portugal e conta com mais de 700 investidores participando dele."
+    }
+},
+{
+    "id": "finance_fund_growth_fund_2",
+    "title": "Finance Fund Growth Fund 2",
+    "imageUrl": "slides/Finance-Fund/finance_fund_growth_fund_2.PNG",
+    "videoUrl": "videos/Finance-Fund/finance_fund_growth_fund_2.mp4",
+    "description": "Summary of historical performance indicators from the Growth Fund, including dividend yield, asset appreciation, number of investors, number of assets, and average annual yield over the investment period.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Looking more closely at past performance indicators, the Growth Fund illustrates our approach to generating returns. Investors benefited from a combination of regular dividend payments and asset appreciation over time, supported by a diversified asset base. While past performance does not guarantee future results, these figures help demonstrate how the fund balances income generation with long-term value creation. The Finance Fund applies similar principles, tailored to a different asset and financing structure.",
+        "en-UK": "Looking more closely at past performance indicators, the Growth Fund illustrates our approach to generating returns. Investors benefited from a combination of regular dividend payments and asset appreciation over time, supported by a diversified asset base. While past performance does not guarantee future results, these figures help demonstrate how the fund balances income generation with long-term value creation. The Finance Fund applies similar principles, tailored to a different asset and financing structure.",
+        "pt-BR": "Analisando mais de perto os indicadores de desempenho passados, o Growth Fund ilustra a nossa abordagem para gerar retornos. Os investidores beneficiaram de uma combinação de pagamentos regulares de dividendos e valorização dos ativos ao longo do tempo, apoiados por uma base de ativos diversificada. Embora o desempenho passado não garanta resultados futuros, estes números ajudam a demonstrar como o fundo equilibra a geração de rendimento com a criação de valor a longo prazo. O Finance Fund aplica princípios semelhantes, adaptados a um ativo e a uma estrutura de financiamento diferentes."
+    }
+},
+{
+    "id": "finance_fund_subfund_e_intro",
+    "title": "Finance Fund Subfund E Intro",
+    "imageUrl": "slides/Finance-Fund/finance_fund_subfund_e_intro.PNG",
+    "videoUrl": "videos/Finance-Fund/finance_fund_subfund_e_intro.mp4",
+    "description": "",
+    "QnA": false,
+    "pitchScript": {
+        "en-US": "",
+        "en-UK": "",
+        "pt-BR": ""
+    }
+},
+{
+    "id": "finance_fund_benefits",
+    "title": "Finance Fund Benefits",
+    "imageUrl": "slides/Finance-Fund/finance_fund_benefits.PNG",
+    "videoUrl": "videos/Finance-Fund/finance_fund_benefits.mp4",
+    "description": "Explanation of the structural dependency on traditional energy grids and the increasing demand from individuals and businesses for decentralized and self-sufficient energy solutions.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "So why the finance fund and what’s behind it? When we were analyzing the energy and renewable markets through our previous investments with the BlueCrow Growth Fund, we learned three key things. First, energy prices are extremely volatile and can be affected by even small geopolitical events, reductions in activity due to a global pandemic, or economic slowdowns. All of these factors impact energy prices, which are highly relevant not only for households but for many companies as well. With the BlueCrow Growth Fund, we were investing in project finance, which means financing the construction of renewable energy assets. By providing this type of financing, we can offer a fixed return to our investors while also stabilizing energy prices for our clients. This approach allows us to have the best of both worlds: clients benefit from low, predictable energy costs over a long period, and investors in the fund gain a strong investment opportunity with relatively high returns. This, of course, was the initial idea behind the fund.",
+        "en-UK": "So why the finance fund and what’s behind it? When we were analyzing the energy and renewable markets through our previous investments with the BlueCrow Growth Fund, we learned three key things. First, energy prices are extremely volatile and can be affected by even small geopolitical events, reductions in activity due to a global pandemic, or economic slowdowns. All of these factors impact energy prices, which are highly relevant not only for households but for many companies as well. With the BlueCrow Growth Fund, we were investing in project finance, which means financing the construction of renewable energy assets. By providing this type of financing, we can offer a fixed return to our investors while also stabilizing energy prices for our clients. This approach allows us to have the best of both worlds: clients benefit from low, predictable energy costs over a long period, and investors in the fund gain a strong investment opportunity with relatively high returns. This, of course, was the initial idea behind the fund.",
+        "pt-BR": "Então por que o fundo financeiro e o que está por trás dele? Ao analisarmos os mercados de energia e renováveis por meio de nossos investimentos anteriores com o BlueCrow Growth Fund, aprendemos três coisas importantes. Primeiro, os preços da energia são extremamente voláteis e podem ser afetados por até pequenos eventos geopolíticos, reduções de atividade devido a uma pandemia global ou desacelerações econômicas. Todos esses fatores impactam os preços da energia, que são altamente relevantes não apenas para residências, mas também para muitas empresas. Com o BlueCrow Growth Fund, investíamos em project finance, ou seja, no financiamento da construção de ativos de energia renovável. Ao fornecer esse tipo de financiamento, podemos oferecer um retorno fixo aos nossos investidores e, ao mesmo tempo, estabilizar os preços de energia para nossos clientes. Essa abordagem nos permite ter o melhor dos dois mundos: os clientes se beneficiam de custos de energia baixos e previsíveis por um longo período, e os investidores do fundo têm uma oportunidade de investimento sólida com retornos relativamente altos. Esta, naturalmente, foi a ideia inicial por trás do fundo."
+    }
+},
+{
+    "id": "finance_fund_regulatory_support",
+    "title": "Finance Fund Regulatory Support",
+    "imageUrl": "slides/Finance-Fund/finance_fund_regulatory_support.PNG",
+    "videoUrl": "videos/Finance-Fund/finance_fund_regulatory_support.mp4",
+    "description": "Overview of regulatory and environmental drivers supporting the energy transition in Europe, including policy pressure to reduce carbon emissions and encourage renewable energy adoption.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "The second point is that the Portuguese government, in line with the European Union and the Paris Climate Accords, provides support to private individuals and enterprises that want to build their own renewable energy assets. This has allowed us to take advantage of these grants to develop assets that can deliver very high returns with relatively low investment on our side. Of course, we can’t apply this approach to the entire fund, but in certain sectors, mainly agribusiness and industry, we can leverage these grants to acquire significant assets at roughly a 50% discount, creating highly attractive opportunities.",
+        "en-UK": "The second point is that the Portuguese government, in line with the European Union and the Paris Climate Accords, provides support to private individuals and enterprises that want to build their own renewable energy assets. This has allowed us to take advantage of these grants to develop assets that can deliver very high returns with relatively low investment on our side. Of course, we can’t apply this approach to the entire fund, but in certain sectors, mainly agribusiness and industry, we can leverage these grants to acquire significant assets at roughly a 50% discount, creating highly attractive opportunities.",
+        "pt-BR": "O segundo ponto é que o governo português, em linha com a União Europeia e os Acordos de Paris sobre o Clima, oferece apoio a pessoas físicas e empresas que desejam construir seus próprios ativos de energia renovável. Isso nos permitiu aproveitar esses subsídios para desenvolver ativos capazes de gerar retornos muito altos com um investimento relativamente baixo da nossa parte. Claro que não podemos aplicar essa abordagem a todo o fundo, mas em certos setores, principalmente agronegócio e indústria, podemos usar esses subsídios para adquirir ativos significativos com cerca de 50% de desconto, criando oportunidades altamente atraentes."
+    }
+},
+{
+    "id": "finance_fund_what_happens_to_my_money",
+    "title": "Finance Fund What Happens To My Money",
+    "imageUrl": "slides/Finance-Fund/finance_fund_what_happens_to_my_money.PNG",
+    "videoUrl": "videos/Finance-Fund/finance_fund_what_happens_to_my_money.mp4",
+    "description": "Illustration of how invested capital in the finance fund is deployed, amortized, and reinvested over time, highlighting compounding effects and the reference investment amount for Golden Visa eligibility.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "The investment process is very straightforward. Whenever an investor contributes money to the fund, we hold it until a suitable project is ready to be financed. As mentioned, the fund has four companies, each dedicated to a specific type of end client. We don’t invest per utility partner, but per client type. One SPV holds solar panels for residential clients, another for commercial clients, a third for industrial clients, what we call energy communities, and the fourth is the kinetic power plant. Each time a new project comes in, whether a household or company solar installation, we analyze it. If the project offers a return above 10% and fits within our portfolio range of 10–12%, we allocate funds to it. We hire a company to construct the setup, and from the return, 8% is paid annually to investors as a dividend. The remaining 2–4% covers fund fees or is reinvested in new projects.",
+        "en-UK": "The investment process is very straightforward. Whenever an investor contributes money to the fund, we hold it until a suitable project is ready to be financed. As mentioned, the fund has four companies, each dedicated to a specific type of end client. We don’t invest per utility partner, but per client type. One SPV holds solar panels for residential clients, another for commercial clients, a third for industrial clients, what we call energy communities, and the fourth is the kinetic power plant. Each time a new project comes in, whether a household or company solar installation, we analyze it. If the project offers a return above 10% and fits within our portfolio range of 10–12%, we allocate funds to it. We hire a company to construct the setup, and from the return, 8% is paid annually to investors as a dividend. The remaining 2–4% covers fund fees or is reinvested in new projects.",
+        "pt-BR": "O processo de investimento é muito direto. Sempre que um investidor aporta dinheiro no fundo, mantemos os recursos até que um projeto adequado esteja pronto para ser financiado. Como mencionado, o fundo possui quatro empresas, cada uma dedicada a um tipo específico de cliente final. Não investimos por parceiro de utilidade, mas por tipo de cliente. Um SPV mantém os painéis solares para clientes residenciais, outro para clientes comerciais, um terceiro para clientes industriais, o que chamamos de comunidades de energia, e o quarto é a usina cinética. Cada vez que surge um novo projeto, seja uma instalação solar residencial ou empresarial, nós o analisamos. Se o projeto oferecer um retorno acima de 10% e se encaixar dentro da nossa faixa de portfólio de 10–12%, alocamos fundos nele. Contratamos uma empresa para construir a instalação e, do retorno, 8% é pago anualmente aos investidores como dividendo, enquanto os 2–4% restantes cobrem as taxas do fundo ou são reinvestidos em novos projetos."
+    }
+},
+{
+    "id": "finance_fund_investment_cashflow_performance",
+    "title": "Finance Fund Investment Cashflow Performance",
+    "imageUrl": "slides/Finance-Fund/finance_fund_investment_cashflow_performance.PNG",
+    "videoUrl": "videos/Finance-Fund/finance_fund_investment_cashflow_performance.mp4",
+    "description": "Explanation of the finance fund’s return generation model, based on loan amortizations and interest yields from renewable energy projects, emphasizing predictability of cash flows without guaranteeing outcomes.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Along the way, investors receive annual dividend cash flows, and at the end of the fund, when all assets are sold, a capital valuation is generated and paid out, providing an additional return.",
+        "en-UK": "Along the way, investors receive annual dividend cash flows, and at the end of the fund, when all assets are sold, a capital valuation is generated and paid out, providing an additional return.",
+        "pt-BR": "Ao longo do tempo, os investidores recebem fluxos de caixa anuais de dividendos e, ao final do fundo, quando todos os ativos são vendidos, é gerada uma valorização de capital que é paga, proporcionando um retorno adicional."
+    }
+},
+{
+    "id": "finance_fund_investment_vehicle",
+    "title": "Finance Fund Investment Vehicle",
+    "imageUrl": "slides/Finance-Fund/finance_fund_investment_vehicle.PNG",
+    "videoUrl": "videos/Finance-Fund/finance_fund_investment_vehicle.mp4",
+    "description": "This slide explains how investor capital is used throughout the life of the finance fund. Capital is deployed into financing structures that generate both amortizations and energy-related yields. As repayments and yields are received, they are reinvested, creating a compounding effect over time. This reinvestment mechanism contributes to capital appreciation while maintaining alignment with the reference investment amount required for Golden Visa eligibility.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "If a company wants to build its own renewable energy facilities, it basically has two options. They can either buy it outright, using their own cash, or leverage financing to build the asset, which is outside of their usual operations. Alternatively, they can come to us and say, “I want part of my energy to come from renewable sources.” In that case, we cover the cost of the installation, and they simply pay for the energy the renewable asset generates. This setup has three major advantages compared to other options. First, it avoids bureaucracy. Second, the technology we use, mainly solar, is widely available and simple. Third, and most importantly, if one of our clients defaults, we’re working with a utility company, so the energy can be redirected to another client.",
+        "en-UK": "If a company wants to build its own renewable energy facilities, it basically has two options. They can either buy it outright, using their own cash, or leverage financing to build the asset, which is outside of their usual operations. Alternatively, they can come to us and say, “I want part of my energy to come from renewable sources.” In that case, we cover the cost of the installation, and they simply pay for the energy the renewable asset generates. This setup has three major advantages compared to other options. First, it avoids bureaucracy. Second, the technology we use, mainly solar, is widely available and simple. Third, and most importantly, if one of our clients defaults, we’re working with a utility company, so the energy can be redirected to another client.",
+        "pt-BR": "Se uma empresa quiser construir suas próprias instalações de energia renovável, basicamente tem duas opções. Pode comprá-las diretamente, usando seu próprio capital, ou utilizar financiamento para construir o ativo, que fica fora de suas operações habituais. Alternativamente, ela pode nos procurar e dizer: “Quero que parte da minha energia venha de fontes renováveis.” Nesse caso, nós cobrimos o custo da instalação, e eles simplesmente pagam pela energia gerada pelo ativo renovável. Esse modelo tem três grandes vantagens em comparação com outras opções. Primeiro, evita burocracia. Segundo, a tecnologia que usamos, principalmente solar, é amplamente disponível e simples. Terceiro, e mais importante, se algum de nossos clientes não cumprir o pagamento, estamos trabalhando com uma empresa de energia, de modo que a energia pode ser redirecionada para outro cliente."
+    }
+},
+{
+    "id": "finance_fund_solar_panel",
+    "title": "Finance Fund Solar Panel",
+    "imageUrl": "slides/Finance-Fund/finance_fund_solar_panel.PNG",
+    "videoUrl": "videos/Finance-Fund/finance_fund_solar_panel.mp4",
+    "description": "Detailed explanation of how solar panel systems operate, including installation flexibility, energy conversion, and integration with the public grid.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "It’s no surprise that 98% of what we do in solar energy and renewable energy is focused on solar. We work with very simple setups; solar panels, batteries, and inverters. This is what we purchase. In fact, we are probably one of the largest buyers of solar panels in Portugal, but we don’t use the panels ourselves. Our utility company partners use them to sell energy to their clients, and this setup has allowed us to generate a very interesting and significant income stream.",
+        "en-UK": "It’s no surprise that 98% of what we do in solar energy and renewable energy is focused on solar. We work with very simple setups; solar panels, batteries, and inverters. This is what we purchase. In fact, we are probably one of the largest buyers of solar panels in Portugal, but we don’t use the panels ourselves. Our utility company partners use them to sell energy to their clients, and this setup has allowed us to generate a very interesting and significant income stream.",
+        "pt-BR": "Não é surpresa que 98% do que fazemos em energia solar e renovável seja focado em solar. Trabalhamos com montagens muito simples: painéis solares, baterias e inversores. É isso que compramos. Na verdade, provavelmente somos um dos maiores compradores de painéis solares em Portugal, mas não usamos os painéis nós mesmos. Nossos parceiros em empresas de energia os utilizam para vender energia aos clientes, e essa estrutura nos permitiu gerar um fluxo de receita muito interessante e significativo."
+    }
+},
+{
+    "id": "finance_fund_kinetic_power_plant",
+    "title": "Finance Fund Kinetic Power Plant",
+    "imageUrl": "slides/Finance-Fund/finance_fund_kinetic_power_plant.PNG",
+    "videoUrl": "videos/Finance-Fund/finance_fund_kinetic_power_plant.mp4",
+    "description": "Introduction to kinetic energy principles and their application in kinetic power plants as an alternative renewable energy solution.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "The other 2% of our renewable energy work, beyond the 98% focused on solar plus batteries, is dedicated to a kinetic power plant we decided to develop. A kinetic power plant combines a solar facility with a kinetic facility. The kinetic battery stores energy, which is then transformed into electricity through the movement of mechanical parts. In our setup, solar energy is captured through panels, stored in a battery, and then delivered continuously over 24 hours to an air pump. This air pump directs gusts of air whenever a bucket of water passes in front of it, causing the buckets to move within the mechanical machine, generating electricity. We are currently building a 1 MW factory for this project, co-invested with the Portuguese government. We cover 50% of the investment, and the government is our client for the energy produced by the machine. We are very pleased with this investment, even though it represents a very small portion of the fund.",
+        "en-UK": "The other 2% of our renewable energy work, beyond the 98% focused on solar plus batteries, is dedicated to a kinetic power plant we decided to develop. A kinetic power plant combines a solar facility with a kinetic facility. The kinetic battery stores energy, which is then transformed into electricity through the movement of mechanical parts. In our setup, solar energy is captured through panels, stored in a battery, and then delivered continuously over 24 hours to an air pump. This air pump directs gusts of air whenever a bucket of water passes in front of it, causing the buckets to move within the mechanical machine, generating electricity. We are currently building a 1 MW factory for this project, co-invested with the Portuguese government. We cover 50% of the investment, and the government is our client for the energy produced by the machine. We are very pleased with this investment, even though it represents a very small portion of the fund.",
+        "pt-BR": "Não é surpresa que 98% do que fazemos em energia solar e renovável seja focado em solar. Trabalhamos com montagens muito simples: painéis solares, baterias e inversores. É isso que compramos. Na verdade, provavelmente somos um dos maiores compradores de painéis solares em Portugal, mas não usamos os painéis nós mesmos. Nossos parceiros em empresas de energia os utilizam para vender energia aos clientes, e essa estrutura nos permitiu gerar um fluxo de receita muito interessante e significativo."
+    }
+},
+{
+    "id": "finance_fund_sample_portfolio_companies",
+    "title": "Finance Fund Sample Portfolio Companies",
+    "imageUrl": "slides/Finance-Fund/finance_fund_sample_portfolio_companies.PNG",
+    "videoUrl": "videos/Finance-Fund/finance_fund_sample_portfolio_companies.mp4",
+    "description": "Overview of a representative portfolio of financed projects, highlighting geographic diversification across multiple locations.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "This slide presents a sample of projects that reflect how capital is deployed geographically. Rather than concentrating exposure in a single location, the portfolio is spread across different regions. This geographic diversification helps reduce localized risk and supports a more balanced exposure to underlying assets. It also reflects the fund’s approach to spreading capital across multiple projects rather than relying on a single investment.",
+        "en-UK": "This slide presents a sample of projects that reflect how capital is deployed geographically. Rather than concentrating exposure in a single location, the portfolio is spread across different regions. This geographic diversification helps reduce localized risk and supports a more balanced exposure to underlying assets. It also reflects the fund’s approach to spreading capital across multiple projects rather than relying on a single investment.",
+        "pt-BR": "Este slide apresenta um exemplo de como os projetos financiados estão distribuídos geograficamente. Em vez de concentrar o investimento numa única localização, a carteira é diversificada por diferentes regiões. Essa abordagem contribui para a mitigação de riscos locais e para uma exposição mais equilibrada aos ativos subjacentes, alinhada com a estratégia do fundo."
+    }
+},
+{
+    "id": "finance_fund_fund_vision",
+    "title": "Finance Fund Fund Vision",
+    "imageUrl": "slides/Finance-Fund/finance_fund_fund_vision.PNG",
+    "videoUrl": "videos/Finance-Fund/finance_fund_fund_vision.mp4",
+    "description": "Contextual information regarding the portfolio snapshot date and clarification that past performance does not guarantee future results.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "With these two concepts in mind, we have raised close to €70 million for the fund so far, with a target of reaching €100 million. To achieve this, we created four portfolio companies where all the assets we finance and build are held, and these assets are then leased to a utility company that sells the energy to the end client. We are not involved in the operation of selling energy ourselves; our role is financing the construction of assets that will generate cash flow over time. The fund is set to liquidate by 2033, but it will be listed on Euronext, the European Union stock market, starting from 2027 onward.",
+        "en-UK": "With these two concepts in mind, we have raised close to €70 million for the fund so far, with a target of reaching €100 million. To achieve this, we created four portfolio companies where all the assets we finance and build are held, and these assets are then leased to a utility company that sells the energy to the end client. We are not involved in the operation of selling energy ourselves; our role is financing the construction of assets that will generate cash flow over time. The fund is set to liquidate by 2033, but it will be listed on Euronext, the European Union stock market, starting from 2027 onward.",
+        "pt-BR": "Com esses dois conceitos em mente, já captamos cerca de 70 milhões de euros para o fundo até o momento, com o objetivo de alcançar 100 milhões de euros. Para isso, criamos quatro empresas de portfólio, onde todos os ativos que financiamos e construímos são mantidos, e esses ativos são então arrendados para uma empresa de energia que vende a energia para o cliente final. Não estamos envolvidos na operação de venda de energia; nosso papel é financiar a construção de ativos que gerarão fluxo de caixa ao longo do tempo. O fundo está previsto para ser liquidado em 2033, mas será listado na Euronext, o mercado de ações da União Europeia, a partir de 2027."
+    }
+},
+{
+    "id": "finance_fund_fund_summary_fees",
+    "title": "Finance Fund Fund Summary Fees",
+    "imageUrl": "slides/Finance-Fund/finance_fund_fund_summary_fees.PNG",
+    "videoUrl": "videos/Finance-Fund/finance_fund_fund_summary_fees.mp4",
+    "description": "High-level summary of the Finance fund’s current size, number of assets, fees, and positioning within BlueCrow’s investment platform.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Our strategy is very simple. The minimum investment in the fund is €100,000, making it accessible even for relatively small investors. We charge a set of fees based on the amount invested, plus an annual management fee for operating and managing the businesses within the fund. At the end, when all assets in the fund are sold, we reimburse the investor and take 20% of the fund’s capitalization, with the remaining 80% going to the investor.",
+        "en-UK": "Our strategy is very simple. The minimum investment in the fund is €100,000, making it accessible even for relatively small investors. We charge a set of fees based on the amount invested, plus an annual management fee for operating and managing the businesses within the fund. At the end, when all assets in the fund are sold, we reimburse the investor and take 20% of the fund’s capitalization, with the remaining 80% going to the investor.",
+        "pt-BR": "Nossa estratégia é muito simples. O investimento mínimo no fundo é de 100.000 euros, tornando-o acessível mesmo para investidores relativamente pequenos. Cobramos um conjunto de taxas baseadas no valor investido, além de uma taxa de administração anual para operar e gerenciar os negócios dentro do fundo. Ao final, quando todos os ativos do fundo forem vendidos, reembolsamos o investidor e ficamos com 20% da capitalização do fundo, sendo os 80% restantes destinados ao investidor."
+    }
+},
+{
+    "id": "golden_visa_intro",
+    "title": "Golden Visa Intro",
+    "imageUrl": "slides/Golden Visa/golden_visa_intro.PNG",
+    "videoUrl": "videos/Golden Visa/golden_visa_intro.mp4",
+    "description": "",
+    "QnA": false,
+    "pitchScript": {
+        "en-US": "I’d now like to introduce the Portuguese Golden Visa program. This is a residence-by-investment framework designed for non-European Union citizens who wish to obtain residency in Portugal through a qualifying investment. We participate in this program through fully regulated investment funds, offering investors a structured and compliant pathway to residency while maintaining a clear investment focus.",
+        "en-UK": "I’d now like to introduce the Portuguese Golden Visa program. This is a residence-by-investment framework designed for non-European Union citizens who wish to obtain residency in Portugal through a qualifying investment. We participate in this program through fully regulated investment funds, offering investors a structured and compliant pathway to residency while maintaining a clear investment focus.",
+        "pt-BR": "Gostaria agora de apresentar o programa Golden Visa português. Trata-se de um esquema de residência por investimento, destinado a cidadãos que não pertencem à União Europeia e que desejam obter residência em Portugal através de um investimento qualificado. Participamos neste programa através de fundos de investimento totalmente regulamentados, oferecendo aos investidores um caminho estruturado e em conformidade para a residência, mantendo simultaneamente um foco claro em investimento."
+    }
+},
+{
+    "id": "golden_visa_why_portugal",
+    "title": "Golden Visa Why Portugal",
+    "imageUrl": "slides/Golden Visa/golden_visa_why_portugal.PNG",
+    "videoUrl": "videos/Golden Visa/golden_visa_why_portugal.mp4",
+    "description": "Explains why Portugal is an attractive country for residency and long-term investment, including lifestyle, stability, and economic factors.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Portugal consistently ranks as one of the most attractive countries in Europe to live and invest in. It offers political and economic stability, a high quality of life, a competitive cost of living compared to other major European cities, and a strong focus on innovation and technology. These factors make Portugal not only appealing from a lifestyle perspective, but also a solid and predictable environment for long-term investment.",
+        "en-UK": "Portugal consistently ranks as one of the most attractive countries in Europe to live and invest in. It offers political and economic stability, a high quality of life, a competitive cost of living compared to other major European cities, and a strong focus on innovation and technology. These factors make Portugal not only appealing from a lifestyle perspective, but also a solid and predictable environment for long-term investment.",
+        "pt-BR": "Portugal é amplamente reconhecido como um dos países mais atrativos da Europa para viver e investir. Oferece estabilidade política, elevada qualidade de vida, excelentes sistemas de saúde e educação e um custo de vida competitivo. Estes fatores tornam Portugal especialmente apelativo para famílias e planeamento de longo prazo."
+    }
+},
+{
+    "id": "golden_visa_overview",
+    "title": "Golden Visa Overview",
+    "imageUrl": "slides/Golden Visa/golden_visa_overview.PNG",
+    "videoUrl": "videos/Golden Visa/golden_visa_overview.mp4",
+    "description": "Provides a high-level explanation of how the Golden Visa works, including eligibility, investment amount, and residency duration.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "The Portuguese Golden Visa grants a residence permit to non-EU investors who make a qualifying investment of five hundred thousand euros. This permit is valid for five years and can include immediate family members. During this period, investors are required to meet only minimal stay requirements, while maintaining their investment and legal compliance.",
+        "en-UK": "The Portuguese Golden Visa grants a residence permit to non-EU investors who make a qualifying investment of five hundred thousand euros. This permit is valid for five years and can include immediate family members. During this period, investors are required to meet only minimal stay requirements, while maintaining their investment and legal compliance.",
+        "pt-BR": "O Golden Visa concede uma autorização de residência em Portugal mediante um investimento qualificado de quinhentos mil euros. A autorização é válida por cinco anos e pode incluir familiares diretos. Durante este período, os investidores apenas têm de cumprir requisitos mínimos de permanência, mantendo o investimento."
+    }
+},
+{
+    "id": "golden_visa_benefits",
+    "title": "Golden Visa Benefits",
+    "imageUrl": "slides/Golden Visa/golden_visa_benefits.PNG",
+    "videoUrl": "videos/Golden Visa/golden_visa_benefits.mp4",
+    "description": "Details the key benefits of the Golden Visa, including mobility, family reunification, access to services, and potential citizenship.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "The Golden Visa offers a range of practical benefits. Investors gain visa-free travel within the Schengen Area, access to Portugal’s healthcare and education systems, and the ability to include close family members under the same application. After five years, investors may apply for Portuguese citizenship, subject to meeting the legal requirements, making this both a mobility and long-term planning solution.",
+        "en-UK": "The Golden Visa offers a range of practical benefits. Investors gain visa-free travel within the Schengen Area, access to Portugal’s healthcare and education systems, and the ability to include close family members under the same application. After five years, investors may apply for Portuguese citizenship, subject to meeting the legal requirements, making this both a mobility and long-term planning solution.",
+        "pt-BR": "O Golden Visa permite viajar sem visto no Espaço Schengen, aceder aos serviços públicos em Portugal e incluir familiares no processo. Após cinco anos, e cumpridos os requisitos legais, é possível solicitar a cidadania portuguesa, tornando esta solução atrativa para mobilidade e planeamento a longo prazo."
+    }
+},
+{
+    "id": "golden_visa_step_by_step",
+    "title": "Golden Visa Step By Step",
+    "imageUrl": "slides/Golden Visa/golden_visa_step_by_step.PNG",
+    "videoUrl": "videos/Golden Visa/golden_visa_step_by_step.mp4",
+    "description": "Explains the step-by-step Golden Visa application process from onboarding to residency approval.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "The application process follows a clear sequence. It begins with obtaining a Portuguese tax number and preparing the necessary documentation. The qualifying investment is then made into an eligible fund, after which the Golden Visa application is submitted. Applicants attend a biometric appointment, and once approved, the residence permit is issued and renewed every two years throughout the five-year period.",
+        "en-UK": "The application process follows a clear sequence. It begins with obtaining a Portuguese tax number and preparing the necessary documentation. The qualifying investment is then made into an eligible fund, after which the Golden Visa application is submitted. Applicants attend a biometric appointment, and once approved, the residence permit is issued and renewed every two years throughout the five-year period.",
+        "pt-BR": "O processo começa com a obtenção do número de identificação fiscal português e a preparação da documentação necessária. O investimento é então realizado num fundo elegível, seguindo-se a submissão do pedido e a recolha de dados biométricos. A autorização é renovada a cada dois anos durante o período de cinco anos."
+    }
+},
+{
+    "id": "golden_visa_simplified",
+    "title": "Golden Visa Simplified",
+    "imageUrl": "slides/Golden Visa/golden_visa_simplified.PNG",
+    "videoUrl": "videos/Golden Visa/golden_visa_simplified.mp4",
+    "description": "Explains the simplified investment process that avoids the need for opening a traditional Portuguese bank account.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Another advantage of working with Blue Crow is that we can offer what we call a jumbo account, thanks to our financial licence. This makes the entire onboarding process much easier for you. If you choose to use our jumbo account, there’s no need to open a bank account with a local financial institution, everything can be handled directly through us. You simply send us the subscription documents and ask us to open a custody account for your shares. From there, you’ll get the same protection, security and transparency you’d expect from a traditional bank. It’s a smooth, efficient setup designed to make your investment experience simpler and more convenient.",
+        "en-UK": "Another advantage of working with Blue Crow is that we can offer what we call a jumbo account, thanks to our financial licence. This makes the entire onboarding process much easier for you. If you choose to use our jumbo account, there’s no need to open a bank account with a local financial institution, everything can be handled directly through us. You simply send us the subscription documents and ask us to open a custody account for your shares. From there, you’ll get the same protection, security and transparency you’d expect from a traditional bank. It’s a smooth, efficient setup designed to make your investment experience simpler and more convenient.",
+        "pt-BR": "Outra vantagem de trabalhar com a Blue Crow é que podemos oferecer uma conta jumbo, graças à nossa licença financeira. Isso torna todo o processo de onboarding muito mais simples para si. Ao optar por esta conta, não precisa de abrir uma conta bancária numa instituição local, tratamos de tudo diretamente consigo. Só precisa de nos enviar os documentos de subscrição e pedir a abertura de uma conta de custódia para as suas ações. A partir daí, garante o mesmo nível de proteção, segurança e transparência que teria num banco tradicional. É uma solução prática e eficiente, pensada para tornar a sua experiência de investimento mais simples e conveniente."
+    }
+},
+{
+    "id": "golden_visa_investment_funds",
+    "title": "Golden Visa Investment Funds",
+    "imageUrl": "slides/Golden Visa/golden_visa_investment_funds.PNG",
+    "videoUrl": "videos/Golden Visa/golden_visa_investment_funds.mp4",
+    "description": "Clarifies how investment funds qualify for the Golden Visa and the regulatory requirements they must meet.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "For an investment fund to qualify under the Golden Visa framework, it must comply with strict regulatory criteria. At least sixty percent of the fund’s capital must be invested in Portuguese entities, and real estate investments are not permitted. Our funds fully meet these requirements, ensuring eligibility while maintaining a diversified and professionally managed investment strategy.",
+        "en-UK": "For an investment fund to qualify under the Golden Visa framework, it must comply with strict regulatory criteria. At least sixty percent of the fund’s capital must be invested in Portuguese entities, and real estate investments are not permitted. Our funds fully meet these requirements, ensuring eligibility while maintaining a diversified and professionally managed investment strategy.",
+        "pt-BR": "Para que um fundo de investimento seja elegível ao programa Golden Visa, deve cumprir critérios regulatórios rigorosos. Pelo menos sessenta por cento do capital do fundo deve ser investido em entidades portuguesas, e investimentos imobiliários não são permitidos. Os nossos fundos cumprem integralmente estes requisitos, garantindo a elegibilidade, ao mesmo tempo que mantêm uma estratégia de investimento diversificada e profissionalmente gerida."
+    }
+},
+{
+    "id": "golden_visa_funds_offering",
+    "title": "Golden Visa Funds Offering",
+    "imageUrl": "slides/Golden Visa/golden_visa_funds_offering.PNG",
+    "videoUrl": "videos/Golden Visa/golden_visa_funds_offering.mp4",
+    "description": "Presents BlueCrow’s Golden Visa–eligible fund offerings and their role within the residency-by-investment strategy.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "BlueCrow offers a range of funds that are fully eligible under the Portuguese Golden Visa program. These funds are designed to combine regulatory compliance with a clear investment rationale, allowing investors to pursue residency without compromising on professional fund management, diversification, or long-term return potential.",
+        "en-UK": "BlueCrow offers a range of funds that are fully eligible under the Portuguese Golden Visa program. These funds are designed to combine regulatory compliance with a clear investment rationale, allowing investors to pursue residency without compromising on professional fund management, diversification, or long-term return potential.",
+        "pt-BR": "A BlueCrow disponibiliza um conjunto de fundos totalmente elegíveis para o programa Golden Visa português. Estes fundos combinam conformidade regulamentar com gestão profissional e uma lógica clara de investimento, permitindo obter residência sem comprometer a qualidade do investimento."
+    }
+},
+{
+    "id": "open_ended_funds_intro",
+    "title": "Open Ended Funds Intro",
+    "imageUrl": "slides/Open-Ended/open_ended_funds_intro.PNG",
+    "videoUrl": "videos/Open-Ended/open_ended_funds_intro.mp4",
+    "description": "",
+    "QnA": false,
+    "pitchScript": {
+        "en-US": "I’d now like to shift focus to BlueCrow’s open-ended funds. These funds are designed for investors who value flexibility, liquidity, and a more conservative risk profile. Unlike closed-end funds, open-ended structures allow investors to enter and exit more easily, making them particularly suitable for those seeking steady returns and capital preservation rather than long-term capital lock-up.",
+        "en-UK": "I’d now like to shift focus to BlueCrow’s open-ended funds. These funds are designed for investors who value flexibility, liquidity, and a more conservative risk profile. Unlike closed-end funds, open-ended structures allow investors to enter and exit more easily, making them particularly suitable for those seeking steady returns and capital preservation rather than long-term capital lock-up.",
+        "pt-BR": "Gostaria agora de mudar o foco para os fundos open-ended da BlueCrow. Estes fundos são destinados a investidores que valorizam flexibilidade, liquidez e um perfil de risco mais conservador. Ao contrário dos fundos fechados, as estruturas abertas permitem que os investidores entrem e saiam com maior facilidade, tornando-os particularmente adequados para quem procura retornos estáveis e preservação de capital, em vez de um bloqueio de longo prazo do investimento."
+    }
+},
+{
+    "id": "open_ended_fund_manager",
+    "title": "Open Ended Fund Manager",
+    "imageUrl": "slides/Open-Ended/open_ended_fund_manager.PNG",
+    "videoUrl": "videos/Open-Ended/open_ended_fund_manager.mp4",
+    "description": "Introduces Francisco Sousa Louro, the fund manager responsible for BlueCrow’s open-ended funds and highlights their experience and investment philosophy.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Open Ended fund is managed by Francisco Sousa Louro, a seasoned investment professional with more than sixteen years of experience in capital markets and asset management. His background spans equities, portfolio construction, multi-asset strategies, and private equity valuation. Francisco strongly believes in long-term investing driven by deep knowledge of companies rather than short-term market forecasting. Since joining BlueCrow in 2022, he has played a key role in embedding these principles into the fund’s investment approach.",
+        "en-UK": "Open Ended fund is managed by Francisco Sousa Louro, a seasoned investment professional with more than sixteen years of experience in capital markets and asset management. His background spans equities, portfolio construction, multi-asset strategies, and private equity valuation. Francisco strongly believes in long-term investing driven by deep knowledge of companies rather than short-term market forecasting. Since joining BlueCrow in 2022, he has played a key role in embedding these principles into the fund’s investment approach.",
+        "pt-BR": "O fundo open-ended é gerido por Francisco Sousa Louro, um profissional de investimentos experiente, com mais de dezasseis anos de experiência em mercados de capitais e gestão de ativos. A sua experiência abrange ações, construção de portfólios, estratégias multiativos e avaliação de private equity. Francisco acredita fortemente no investimento de longo prazo, baseado no conhecimento profundo das empresas, em vez de previsões de mercado de curto prazo. Desde que se juntou à BlueCrow em 2022, tem desempenhado um papel fundamental em incorporar estes princípios na abordagem de investimento do fundo."
+    }
+},
+{
+    "id": "open_ended_funds_overview",
+    "title": "Open Ended Funds Overview",
+    "imageUrl": "slides/Open-Ended/open_ended_funds_overview.PNG",
+    "videoUrl": "videos/Open-Ended/open_ended_funds_overview.mp4",
+    "description": "Provides an overview of BlueCrow’s open-ended fund offering, including objectives, structure, and investor profile.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Let me dive into the open-ended funds. This fund is compose by two sub-fund's, combine them into a portfolio adapted to your risk profile and return expectations. The Portugal Short Term Fund is a pure fixed-income, debt-focused fund designed for conservative investors, with capital preservation as its main goal, offering weekly liquidity, allowing you to move money in and out, and it has an expected annual return of around 4%.. The Portugal Select Fund, on the other hand, is a pure equity fund for return-seeking investors, with an expected annual return of 8–10%. Investors should be prepared to stay invested for an extended period, essentially letting the capital grow over time. This fund is ideal for increasing your net worth in the long term, and we believe equities are the best vehicle to achieve that.",
+        "en-UK": "Let me dive into the open-ended funds. This fund is compose by two sub-fund's, combine them into a portfolio adapted to your risk profile and return expectations. The Portugal Short Term Fund is a pure fixed-income, debt-focused fund designed for conservative investors, with capital preservation as its main goal, offering weekly liquidity, allowing you to move money in and out, and it has an expected annual return of around 4%.. The Portugal Select Fund, on the other hand, is a pure equity fund for return-seeking investors, with an expected annual return of 8–10%. Investors should be prepared to stay invested for an extended period, essentially letting the capital grow over time. This fund is ideal for increasing your net worth in the long term, and we believe equities are the best vehicle to achieve that.",
+        "pt-BR": "Deixe-me falar sobre os Open-ended. Este fundo é composto por dois subfundos, que podem ser combinados em uma carteira adaptada ao seu perfil de risco e expectativas de retorno. O Portugal Short Term Fund é um fundo de renda fixa pura, focado em dívida, destinado a investidores conservadores, com preservação de capital como objetivo principal, oferecendo liquidez semanal, permitindo movimentar o dinheiro facilmente, e com retorno anual esperado em torno de 4%. Já o Portugal Select Fund é um fundo de ações puro, voltado para investidores em busca de retorno, com retorno anual esperado de 8 a 10%. Os investidores devem estar preparados para se manter investidos por um período prolongado, permitindo que o capital cresça ao longo do tempo. Este fundo é ideal para aumentar seu patrimônio líquido a longo prazo, e acreditamos que ações são o melhor veículo para alcançar esse objetivo."
+    }
+},
+{
+    "id": "short_term_fund_intro",
+    "title": "Short Term Fund Intro",
+    "imageUrl": "slides/Open-Ended/Short Term/short_term_fund_intro.PNG",
+    "videoUrl": "videos/Open-Ended/Short Term/short_term_fund_intro.mp4",
+    "description": "",
+    "QnA": false,
+    "pitchScript": {
+        "en-US": "The Short-Term Fund is designed for investors who prioritise capital preservation and low volatility. It focuses on short-duration instruments that aim to deliver stable returns while minimising exposure to market fluctuations. This makes it an attractive option for investors looking to park capital efficiently without taking on unnecessary risk.",
+        "en-UK": "The Short-Term Fund is designed for investors who prioritise capital preservation and low volatility. It focuses on short-duration instruments that aim to deliver stable returns while minimising exposure to market fluctuations. This makes it an attractive option for investors looking to park capital efficiently without taking on unnecessary risk.",
+        "pt-BR": "O Fundo de Curto Prazo foi concebido para investidores com um perfil conservador. Foca-se em instrumentos de curta duração, procurando preservar o capital e gerar rendimentos estáveis e previsíveis, com exposição limitada à volatilidade dos mercados."
+    }
+},
+{
+    "id": "short_term_fund_asset_allocation",
+    "title": "Short Term Fund Asset Allocation",
+    "imageUrl": "slides/Open-Ended/Short Term/short_term_fund_asset_allocation.PNG",
+    "videoUrl": "videos/Open-Ended/Short Term/short_term_fund_asset_allocation.mp4",
+    "description": "Explains the asset allocation of the Short-Term Fund across bonds, trade finance, and deposits.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Looking more closely at the Portugal Short Term Fund, 60% of its capital is invested in Portuguese short-term corporate bonds, this is what makes the fund Golden Visa eligible. Another 20% is invested in a strategy we’ve been running since 2020 focused on global trade finance, which I’ll explain in more detail later. The remaining 20% goes into term deposits in European banks and a small portion in global short-term corporate bond funds. This part of the fund provides liquidity and flexibility. Currently, around 16% of the fund’s capital is held in deposits, serving as a stable safety anchor.",
+        "en-UK": "Looking more closely at the Portugal Short Term Fund, 60% of its capital is invested in Portuguese short-term corporate bonds, this is what makes the fund Golden Visa eligible. Another 20% is invested in a strategy we’ve been running since 2020 focused on global trade finance, which I’ll explain in more detail later. The remaining 20% goes into term deposits in European banks and a small portion in global short-term corporate bond funds. This part of the fund provides liquidity and flexibility. Currently, around 16% of the fund’s capital is held in deposits, serving as a stable safety anchor.",
+        "pt-BR": "Olhando mais de perto para o Portugal Short Term Fund, 60% do seu capital é investido em títulos corporativos portugueses de curto prazo, o que torna o fundo elegível para Golden Visa. Outros 20% estão investidos em uma estratégia que executamos desde 2020, focada em trade finance global, que explicarei com mais detalhes a seguir. Os 20% restantes são aplicados em depósitos a prazo em bancos europeus e uma pequena parcela em fundos globais de títulos corporativos de curto prazo. Essa parte do fundo proporciona liquidez e flexibilidade. Atualmente, cerca de 16% do capital do fundo está mantido em depósitos, servindo como um âncora de segurança estável."
+    }
+},
+{
+    "id": "short_term_fund_bond_market",
+    "title": "Short Term Fund Bond Market",
+    "imageUrl": "slides/Open-Ended/Short Term/short_term_fund_bond_market.PNG",
+    "videoUrl": "videos/Open-Ended/Short Term/short_term_fund_bond_market.mp4",
+    "description": "Provides context on the Portuguese short-term corporate bond market and its role within the fund.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "The Portuguese bond market is a €76 billion market. While we could theoretically absorb more, we focus only on the short-term portion, a €30 billion segment of the market. By short-term, we mean bonds with a maximum maturity of seven years. Currently, the fund’s bond portfolio has an average maturity of 3.5 years. We have a pool of 46 different companies in which we can invest, with an average investment-grade rating. The average coupon on these bonds is 4.4%, which is why we expect the fund to deliver around the 4% annual return mentioned earlier.",
+        "en-UK": "The Portuguese bond market is a €76 billion market. While we could theoretically absorb more, we focus only on the short-term portion, a €30 billion segment of the market. By short-term, we mean bonds with a maximum maturity of seven years. Currently, the fund’s bond portfolio has an average maturity of 3.5 years. We have a pool of 46 different companies in which we can invest, with an average investment-grade rating. The average coupon on these bonds is 4.4%, which is why we expect the fund to deliver around the 4% annual return mentioned earlier.",
+        "pt-BR": "O mercado de títulos português é um mercado de 76 bilhões de euros. Embora teoricamente pudéssemos absorver mais, focamos apenas na porção de curto prazo, um segmento de 30 bilhões de euros do mercado. Por curto prazo, entendemos títulos com prazo máximo de sete anos. Atualmente, a carteira de títulos do fundo tem maturidade média de 3,5 anos. Temos um pool de 46 empresas diferentes nas quais podemos investir, com rating médio de investment grade. O cupom médio desses títulos é de 4,4%, razão pela qual esperamos que o fundo entregue cerca de 4% de retorno anual, como mencionei anteriormente"
+    }
+},
+{
+    "id": "short_term_fund_trade_finance",
+    "title": "Short Term Fund Trade Finance",
+    "imageUrl": "slides/Open-Ended/Short Term/short_term_fund_trade_finance.PNG",
+    "videoUrl": "videos/Open-Ended/Short Term/short_term_fund_trade_finance.mp4",
+    "description": "Explains the role of trade finance investments in the Short-Term Fund and how they contribute to stability and diversification.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "The global trade finance strategy is run by a dedicated team in Switzerland working 24/7 and has been operating successfully for years. In simple terms, it finances and hedges the risks involved in transporting commodities around the world. All loans are insured, providing stable returns, and despite no historical defaults, the short-term nature keeps volatility very low. Since 2020, this strategy has returned an average of 7%, giving the fund a higher-yield component that sets it apart from standard money market or government bond funds.",
+        "en-UK": "The global trade finance strategy is run by a dedicated team in Switzerland working 24/7 and has been operating successfully for years. In simple terms, it finances and hedges the risks involved in transporting commodities around the world. All loans are insured, providing stable returns, and despite no historical defaults, the short-term nature keeps volatility very low. Since 2020, this strategy has returned an average of 7%, giving the fund a higher-yield component that sets it apart from standard money market or government bond funds.",
+        "pt-BR": "A estratégia de trade finance global é gerida por uma equipe dedicada na Suíça, trabalhando 24 horas por dia, 7 dias por semana, e opera com sucesso há anos. Em termos simples, ela financia e protege contra riscos envolvidos no transporte de commodities ao redor do mundo. Todos os empréstimos são segurados, proporcionando retornos estáveis, e, apesar de não haver inadimplências históricas, a natureza de curto prazo mantém a volatilidade muito baixa. Desde 2020, essa estratégia tem apresentado um retorno médio de 7%, oferecendo ao fundo um componente de maior rendimento que o diferencia de fundos tradicionais de mercado monetário ou títulos públicos."
+    }
+},
+{
+    "id": "short_term_fund_term_deposits",
+    "title": "Short Term Fund Term Deposits",
+    "imageUrl": "slides/Open-Ended/Short Term/short_term_fund_term_deposits.PNG",
+    "videoUrl": "videos/Open-Ended/Short Term/short_term_fund_term_deposits.mp4",
+    "description": "Describes the use of term deposits within the Short-Term Fund and their contribution to liquidity and yield.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Let’s talk about the anchor of this fund: deposits. A significant portion of the fund is always held in deposits, providing both liquidity and flexibility. This setup allows us to return capital to investors quickly if needed, whether for reinvestment or unexpected circumstances, all with minimal volatility. While this portion prioritizes safety over high returns, it still generates yields around 2–2.5%. Even in today’s low-interest environment, keeping a large part of the fund in deposits ensures stability and easy access to cash for our investors.",
+        "en-UK": "Let’s talk about the anchor of this fund: deposits. A significant portion of the fund is always held in deposits, providing both liquidity and flexibility. This setup allows us to return capital to investors quickly if needed, whether for reinvestment or unexpected circumstances, all with minimal volatility. While this portion prioritizes safety over high returns, it still generates yields around 2–2.5%. Even in today’s low-interest environment, keeping a large part of the fund in deposits ensures stability and easy access to cash for our investors.",
+        "pt-BR": "Vamos falar sobre a âncora deste fundo: os depósitos. Uma porção significativa do fundo é sempre mantida em depósitos, oferecendo liquidez e flexibilidade. Essa estrutura nos permite devolver capital aos investidores rapidamente, se necessário, seja para reinvestimento ou circunstâncias inesperadas, tudo com volatilidade mínima. Embora essa parte priorize a segurança em vez de altos retornos, ainda gera rendimentos em torno de 2 a 2,5%. Mesmo no atual cenário de juros baixos, manter uma grande parte do fundo em depósitos garante estabilidade e fácil acesso a recursos para nossos investidores."
+    }
+},
+{
+    "id": "short_term_fund_track_record",
+    "title": "Short Term Fund Track Record",
+    "imageUrl": "slides/Open-Ended/Short Term/short_term_fund_track_record.PNG",
+    "videoUrl": "videos/Open-Ended/Short Term/short_term_fund_track_record.mp4",
+    "description": "Presents the historical performance and back-tested results of the Short-Term Fund, including risk and return characteristics.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "The fund’s returns are reported net of all fees. Over the last five years, it has delivered around 13% annually, 9.7% over the past two years, and about 5% in the last 12 months. This track record underpins our target of a 4% expected annual return going forward.",
+        "en-UK": "The fund’s returns are reported net of all fees. Over the last five years, it has delivered around 13% annually, 9.7% over the past two years, and about 5% in the last 12 months. This track record underpins our target of a 4% expected annual return going forward.",
+        "pt-BR": "Os retornos do fundo são reportados líquidos de todas as taxas. Nos últimos cinco anos, ele apresentou um retorno de cerca de 13% ao ano, 9,7% nos últimos dois anos e aproximadamente 5% nos últimos 12 meses. Esse histórico de desempenho sustenta nossa meta de retorno anual esperado de 4% daqui para frente."
+    }
+},
+{
+    "id": "select_fund_intro",
+    "title": "Select Fund Intro",
+    "imageUrl": "slides/Open-Ended/Select Fund/select_fund_intro.PNG",
+    "videoUrl": "videos/Open-Ended/Select Fund/select_fund_intro.mp4",
+    "description": "",
+    "QnA": false,
+    "pitchScript": {
+        "en-US": "The Select Fund is designed for investors seeking higher return potential through exposure to equity markets. While it carries a higher risk profile than the Short-Term Fund, it remains guided by a disciplined and conservative investment philosophy. The objective is to generate long-term capital appreciation by investing in high-quality listed companies.",
+        "en-UK": "The Select Fund is designed for investors seeking higher return potential through exposure to equity markets. While it carries a higher risk profile than the Short-Term Fund, it remains guided by a disciplined and conservative investment philosophy. The objective is to generate long-term capital appreciation by investing in high-quality listed companies.",
+        "pt-BR": "O Select Fund foi concebido para investidores que procuram maior potencial de retorno através da exposição aos mercados acionistas. Apesar de apresentar um perfil de risco superior ao Fundo de Curto Prazo, segue uma abordagem disciplinada orientada para a valorização do capital no longo prazo."
+    }
+},
+{
+    "id": "select_fund_asset_allocation",
+    "title": "Select Fund Asset Allocation",
+    "imageUrl": "slides/Open-Ended/Select Fund/select_fund_asset_allocation.PNG",
+    "videoUrl": "videos/Open-Ended/Select Fund/select_fund_asset_allocation.mp4",
+    "description": "Explains the asset allocation of the Select Fund across Portuguese equities, global equities, and equity investment funds.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "The Select Fund allocates 60% to Portuguese listed quality equities, which also makes it Golden Visa eligible. Another 20% is invested in a BlueCrow-managed global quality equity strategy that has returned 32–35% over the past three years. The remaining 20% goes into a Global Equities Investment Fund, providing additional diversification by investing in regions or markets where stock selection is less effective, such as emerging market equities, through carefully selected managers. This structure adds an extra layer of global diversification to the fund.",
+        "en-UK": "The Select Fund allocates 60% to Portuguese listed quality equities, which also makes it Golden Visa eligible. Another 20% is invested in a BlueCrow-managed global quality equity strategy that has returned 32–35% over the past three years. The remaining 20% goes into a Global Equities Investment Fund, providing additional diversification by investing in regions or markets where stock selection is less effective, such as emerging market equities, through carefully selected managers. This structure adds an extra layer of global diversification to the fund.",
+        "pt-BR": "O Select Fund aloca 60% em ações de qualidade listadas em Portugal, o que também o torna elegível para Golden Visa. Outros 20% estão investidos em uma estratégia global de ações de qualidade gerida pela BlueCrow, que apresentou um retorno de 32 a 35% nos últimos três anos. Os 20% restantes vão para um Global Equities Investment Fund, proporcionando diversificação adicional ao investir em regiões ou mercados onde a seleção de ações é menos eficaz, como ações de mercados emergentes, por meio de gestores cuidadosamente selecionados. Essa estrutura adiciona uma camada extra de diversificação global ao fundo."
+    }
+},
+{
+    "id": "select_fund_pt_equities_market",
+    "title": "Select Fund Pt Equities Market",
+    "imageUrl": "slides/Open-Ended/Select Fund/select_fund_pt_equities_market.PNG",
+    "videoUrl": "videos/Open-Ended/Select Fund/select_fund_pt_equities_market.mp4",
+    "description": "Provides context on the Portuguese equities market and its relevance within the Select Fund strategy.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Although the Portuguese stock market is relatively liquid, with a market size of €60 billion and major companies like EDP, Jerónimo Martins, and Galp, only about 20 companies are considered large and liquid enough for meaningful investment. To address this limited pool, the Select Fund incorporates global diversification, investing both in Portugal and internationally to broaden opportunities and reduce concentration risk.",
+        "en-UK": "Although the Portuguese stock market is relatively liquid, with a market size of €60 billion and major companies like EDP, Jerónimo Martins, and Galp, only about 20 companies are considered large and liquid enough for meaningful investment. To address this limited pool, the Select Fund incorporates global diversification, investing both in Portugal and internationally to broaden opportunities and reduce concentration risk.",
+        "pt-BR": "Embora o mercado de ações português seja relativamente líquido, com um tamanho de mercado de 60 bilhões de euros e empresas importantes como EDP, Jerónimo Martins e Galp, apenas cerca de 20 empresas são consideradas grandes e líquidas o suficiente para investimentos significativos. Para lidar com esse pool limitado, o Select Fund incorpora diversificação global, investindo tanto em Portugal quanto internacionalmente, a fim de ampliar oportunidades e reduzir o risco de concentração."
+    }
+},
+{
+    "id": "select_fund_gl_equities_market",
+    "title": "Select Fund Gl Equities Market",
+    "imageUrl": "slides/Open-Ended/Select Fund/select_fund_gl_equities_market.PNG",
+    "videoUrl": "videos/Open-Ended/Select Fund/select_fund_gl_equities_market.mp4",
+    "description": "Explains the role of global equities within the Select Fund and how they enhance diversification and growth potential.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "When selecting companies to invest in, both globally and in Portugal, we are always looking for what we call “quality companies” with five key characteristics. First, they must have fortress-like balance sheets, using debt conservatively, and growth should be financed by their own cash flows. Second, they must be “cash machines,” generating very high returns on investment, high returns on equity, and strong margins on their products or services. Third, there must be a clear, modelable runway for future growth, if projected growth isn’t evident, the company isn’t considered. Fourth, founders or founding families should retain significant ownership, ensuring long-term management aligned with patient, long-horizon investors. Finally, they aim to avoid overpaying, seeking to buy at a discount compared to competitors or historical prices. Examples in the portfolio include Meta Platforms, Ferrari, Straumann, and Copart. These are the types of companies and time horizons the fund targets for long-term value creation.",
+        "en-UK": "When selecting companies to invest in, both globally and in Portugal, we are always looking for what we call “quality companies” with five key characteristics. First, they must have fortress-like balance sheets, using debt conservatively, and growth should be financed by their own cash flows. Second, they must be “cash machines,” generating very high returns on investment, high returns on equity, and strong margins on their products or services. Third, there must be a clear, modelable runway for future growth, if projected growth isn’t evident, the company isn’t considered. Fourth, founders or founding families should retain significant ownership, ensuring long-term management aligned with patient, long-horizon investors. Finally, they aim to avoid overpaying, seeking to buy at a discount compared to competitors or historical prices. Examples in the portfolio include Meta Platforms, Ferrari, Straumann, and Copart. These are the types of companies and time horizons the fund targets for long-term value creation.",
+        "pt-BR": "Ao selecionar empresas para investir, tanto globalmente como em Portugal, estamos sempre à procura do que chamamos de “empresas de qualidade”, com cinco características principais. Primeiro, devem ter balanços sólidos como fortaleza, utilizando a dívida de forma conservadora e financiando o crescimento com os seus próprios fluxos de caixa. Segundo, devem ser “máquinas de cash”, gerando altos retornos sobre o investimento, altos retornos sobre o capital próprio e margens fortes nos produtos ou serviços. Terceiro, deve existir uma projeção clara e modelável de crescimento futuro; se o crescimento projetado não for evidente, a empresa não é considerada. Quarto, os fundadores ou famílias fundadoras devem manter participação significativa, garantindo uma gestão de longo prazo alinhada com investidores pacientes e de horizonte alargado. Por fim, procura-se evitar pagar em excesso, adquirindo a empresa com desconto em relação à concorrência ou ao seu histórico de preços. Exemplos no portfólio incluem Meta Platforms, Ferrari, Straumann e Copart. Estes são os tipos de empresas e horizontes temporais que o fundo visa para a criação de valor a longo prazo."
+    }
+},
+{
+    "id": "select_fund_global_funds",
+    "title": "Select Fund Global Funds",
+    "imageUrl": "slides/Open-Ended/Select Fund/select_fund_global_funds.PNG",
+    "videoUrl": "videos/Open-Ended/Select Fund/select_fund_global_funds.mp4",
+    "description": "Describes the Select Fund’s use of global equity funds and ETFs as part of its investment process.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "The final component of the fund involves selecting third-party funds and ETFs. Blue Crow has developed a disciplined process for this since their early days as investment advisors, creating a “circle of competence” to efficiently identify the best funds or ETFs for each geography or strategy. They maintain quarterly contact with fund managers and their teams, learning from the top international funds and applying these insights to their own strategies. The approach emphasizes simplicity and transparency, plain, easy-to-understand products designed to generate returns for investors, rather than trying to invent complex strategies.",
+        "en-UK": "The final component of the fund involves selecting third-party funds and ETFs. Blue Crow has developed a disciplined process for this since their early days as investment advisors, creating a “circle of competence” to efficiently identify the best funds or ETFs for each geography or strategy. They maintain quarterly contact with fund managers and their teams, learning from the top international funds and applying these insights to their own strategies. The approach emphasizes simplicity and transparency, plain, easy-to-understand products designed to generate returns for investors, rather than trying to invent complex strategies.",
+        "pt-BR": "O componente final do fundo envolve a seleção de fundos de terceiros e ETFs. A BlueCrow desenvolveu um processo disciplinado para isso desde os primeiros dias como consultores de investimento, criando um “círculo de competência” para identificar de forma eficiente os melhores fundos ou ETFs para cada geografia ou estratégia. Eles mantêm contato trimestral com os gestores de fundos e suas equipes, aprendendo com os principais fundos internacionais e aplicando esses aprendizados em suas próprias estratégias. A abordagem enfatiza simplicidade e transparência, com produtos claros e fáceis de entender, projetados para gerar retornos para os investidores, em vez de tentar criar estratégias complexas."
+    }
+},
+{
+    "id": "select_fund_track_record",
+    "title": "Select Fund Track Record",
+    "imageUrl": "slides/Open-Ended/Select Fund/select_fund_track_record.PNG",
+    "videoUrl": "videos/Open-Ended/Select Fund/select_fund_track_record.mp4",
+    "description": "Presents the historical performance and back-tested results of the Select Fund, including volatility considerations.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Over the past five years, the fund has delivered cumulative net returns of around 57%, with 19% over the last two years and approximately 6% in the past 12 months. This performance underpins the fund’s target annual returns of 8–10% going forward.",
+        "en-UK": "Over the past five years, the fund has delivered cumulative net returns of around 57%, with 19% over the last two years and approximately 6% in the past 12 months. This performance underpins the fund’s target annual returns of 8–10% going forward.",
+        "pt-BR": "Nos últimos cinco anos, o fundo apresentou retornos líquidos cumulativos de cerca de 57%, com 19% nos últimos dois anos e aproximadamente 6% nos últimos 12 meses. Esse desempenho sustenta a meta de retornos anuais do fundo de 8 a 10% daqui para frente."
+    }
+},
+{
+    "id": "open_ended_fund_combinations_intro",
+    "title": "Open Ended Fund Combinations Intro",
+    "imageUrl": "slides/Open-Ended/Combinations/open_ended_fund_combinations_intro.PNG",
+    "videoUrl": "videos/Open-Ended/Combinations/open_ended_fund_combinations_intro.mp4",
+    "description": "",
+    "QnA": false,
+    "pitchScript": {
+        "en-US": "Next, we will present different approaches by combining these funds into simple portfolios, showing the expected annual return of each portfolio alongside its expected volatility or risk for each profile.",
+        "en-UK": "Next, we will present different approaches by combining these funds into simple portfolios, showing the expected annual return of each portfolio alongside its expected volatility or risk for each profile.",
+        "pt-BR": "Em seguida, apresentaremos diferentes abordagens combinando esses fundos em portfólios simples, mostrando o retorno anual esperado de cada portfólio juntamente com sua volatilidade ou risco esperado para cada perfil."
+    }
+},
+{
+    "id": "open_ended_fund_combinations_risk_conservative",
+    "title": "Open Ended Fund Combinations Risk Conservative",
+    "imageUrl": "slides/Open-Ended/Combinations/open_ended_fund_combinations_risk_conservative.PNG",
+    "videoUrl": "videos/Open-Ended/Combinations/open_ended_fund_combinations_risk_conservative.mp4",
+    "description": "Explains a conservative portfolio combination focused on capital preservation and low volatility.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "For a conservative approach, we combine 20% of the Portugal Select Fund with 80% of the Portugal Short Term Fund.",
+        "en-UK": "For a conservative approach, we combine 20% of the Portugal Select Fund with 80% of the Portugal Short Term Fund.",
+        "pt-BR": "Para uma abordagem conservadora, combinamos 20% do Portugal Select Fund com 80% do Portugal Short Term Fund."
+    }
+},
+{
+    "id": "open_ended_fund_combinations_risk_moderate",
+    "title": "Open Ended Fund Combinations Risk Moderate",
+    "imageUrl": "slides/Open-Ended/Combinations/open_ended_fund_combinations_risk_moderate.PNG",
+    "videoUrl": "videos/Open-Ended/Combinations/open_ended_fund_combinations_risk_moderate.mp4",
+    "description": "Explains a moderate risk portfolio that balances stability with controlled growth potential.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "For a Moderate approach, we combine 40% of the Portugal Select Fund with 60% of the Portugal Short Term Fund.",
+        "en-UK": "For a Moderate approach, we combine 40% of the Portugal Select Fund with 60% of the Portugal Short Term Fund.",
+        "pt-BR": "Para uma abordagem Moderada, combinamos 40% do Portugal Select Fund com 60% do Portugal Short Term Fund."
+    }
+},
+{
+    "id": "open_ended_fund_combinations_risk_dynamic",
+    "title": "Open Ended Fund Combinations Risk Dynamic",
+    "imageUrl": "slides/Open-Ended/Combinations/open_ended_fund_combinations_risk_dynamic.PNG",
+    "videoUrl": "videos/Open-Ended/Combinations/open_ended_fund_combinations_risk_dynamic.mp4",
+    "description": "Describes a dynamic portfolio allocation with a stronger focus on growth and higher volatility tolerance.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "For a Dynamic approach, we combine 60% of the Portugal Select Fund with 40% of the Portugal Short Term Fund.",
+        "en-UK": "For a Dynamic approach, we combine 60% of the Portugal Select Fund with 40% of the Portugal Short Term Fund.",
+        "pt-BR": "Para uma abordagem dinamica, combinamos 60% do Portugal Select Fund com 40% do Portugal Short Term Fund."
+    }
+},
+{
+    "id": "open_ended_fund_combinations_risk_bold",
+    "title": "Open Ended Fund Combinations Risk Bold",
+    "imageUrl": "slides/Open-Ended/Combinations/open_ended_fund_combinations_risk_bold.PNG",
+    "videoUrl": "videos/Open-Ended/Combinations/open_ended_fund_combinations_risk_bold.mp4",
+    "description": "Explains the bold portfolio combination, focused on maximising return potential with higher risk exposure.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "And finally, for a bold approach, we combine 80% of the Portugal Select Fund with 20% of the Portugal Short Term Fund. As you can see, the higher the risk profile, the higher the expected annual return.",
+        "en-UK": "And finally, for a bold approach, we combine 80% of the Portugal Select Fund with 20% of the Portugal Short Term Fund. As you can see, the higher the risk profile, the higher the expected annual return.",
+        "pt-BR": "E, finalmente, para uma abordagem arrojada, combinamos 80% do Portugal Select Fund com 20% do Portugal Short Term Fund. Como você pode ver, quanto maior o perfil de risco, maior o retorno anual esperado."
+    }
+},
+{
+    "id": "open_ended_factsheet_intro",
+    "title": "Open Ended Factsheet Intro",
+    "imageUrl": "slides/Open-Ended/FactSheet/open_ended_factsheet_intro.PNG",
+    "videoUrl": "videos/Open-Ended/FactSheet/open_ended_factsheet_intro.mp4",
+    "description": "",
+    "QnA": false,
+    "pitchScript": {
+        "en-US": "For investors who want a more detailed view, BlueCrow provides comprehensive fund factsheets. These documents include technical details, performance data, risk metrics, and regulatory information. They are designed to support informed decision-making and provide full transparency on each fund.",
+        "en-UK": "For investors who want a more detailed view, BlueCrow provides comprehensive fund factsheets. These documents include technical details, performance data, risk metrics, and regulatory information. They are designed to support informed decision-making and provide full transparency on each fund.",
+        "pt-BR": "Para investidores que pretendem um nível adicional de detalhe, a BlueCrow disponibiliza fichas técnicas completas dos fundos. Estes documentos incluem dados técnicos, métricas de desempenho, indicadores de risco e informação regulamentar, apoiando decisões de investimento informadas."
+    }
+},
+{
+    "id": "open_ended_factsheet_A",
+    "title": "Open Ended Factsheet A",
+    "imageUrl": "slides/Open-Ended/FactSheet/open_ended_factsheet_A.PNG",
+    "videoUrl": "videos/Open-Ended/FactSheet/open_ended_factsheet_A.mp4",
+    "description": "Presents the factsheet for Share Class A, including its specific characteristics and fee structure.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "This factsheet focuses on Share Class A, outlining its specific features, cost structure, and performance characteristics. Each share class is designed to meet different investor needs, and this level of segmentation allows greater flexibility when structuring an investment.",
+        "en-UK": "This factsheet focuses on Share Class A, outlining its specific features, cost structure, and performance characteristics. Each share class is designed to meet different investor needs, and this level of segmentation allows greater flexibility when structuring an investment.",
+        "pt-BR": "Este slide apresenta a ficha técnica da Classe A, destacando as suas características específicas, estrutura de custos e critérios de elegibilidade. As diferentes classes permitem aos investidores escolher a estrutura mais adequada às suas necessidades."
+    }
+},
+{
+    "id": "open_ended_factsheet_B",
+    "title": "Open Ended Factsheet B",
+    "imageUrl": "slides/Open-Ended/FactSheet/open_ended_factsheet_B.PNG",
+    "videoUrl": "videos/Open-Ended/FactSheet/open_ended_factsheet_B.mp4",
+    "description": "Presents the factsheet for Share Class B and highlights how it differs from other share classes.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "For the Portugal Short Term Fund, there is an annual management fee of 0.6% and no performance fee, as we believe it would be unfair to charge a performance fee on a low-yielding fund. Additionally, there is a subscription fee of 1.5%, which is deducted from your initial investment. For both funds, the minimum investment is €50,000, which is on the lower end compared to market standards. This structure is designed to encourage investors to build a portfolio of funds with us. The Portugal Select Fund has a management fee of 1.2% and a performance fee of 15%, applied only above a hurdle rate, which is calculated as the European Central Bank (ECB) interest rate plus 2.5%. For example, if the ECB rate was 2.5% last year, the performance fee would apply only to returns above 5%. This fund also carries a 1.5% subscription fee, and redemption fees are structured in a waterfall style.",
+        "en-UK": "For the Portugal Short Term Fund, there is an annual management fee of 0.6% and no performance fee, as we believe it would be unfair to charge a performance fee on a low-yielding fund. Additionally, there is a subscription fee of 1.5%, which is deducted from your initial investment. For both funds, the minimum investment is €50,000, which is on the lower end compared to market standards. This structure is designed to encourage investors to build a portfolio of funds with us. The Portugal Select Fund has a management fee of 1.2% and a performance fee of 15%, applied only above a hurdle rate, which is calculated as the European Central Bank (ECB) interest rate plus 2.5%. For example, if the ECB rate was 2.5% last year, the performance fee would apply only to returns above 5%. This fund also carries a 1.5% subscription fee, and redemption fees are structured in a waterfall style.",
+        "pt-BR": "Para o Portugal Short Term Fund, há uma taxa de administração anual de 0,6% e nenhuma taxa de performance, pois acreditamos que seria injusto cobrar uma taxa de performance em um fundo de baixo rendimento. Além disso, há uma taxa de subscrição de 1,5%, que é deduzida do investimento inicial. Para ambos os fundos, o investimento mínimo é de €50.000, valor relativamente baixo em comparação aos padrões de mercado. Essa estrutura foi projetada para incentivar os investidores a construir um portfólio de fundos conosco. O Portugal Select Fund tem uma taxa de administração de 1,2% e uma taxa de performance de 15%, aplicada apenas acima de uma taxa mínima (hurdle rate), que é calculada como a taxa do Banco Central Europeu (BCE) mais 2,5%. Por exemplo, se a taxa do BCE foi 2,5% no ano passado, a taxa de performance se aplicaria apenas a retornos acima de 5%. Este fundo também possui uma taxa de subscrição de 1,5%, e as taxas de resgate são estruturadas em estilo waterfall."
+    }
+},
+{
+    "id": "open_ended_factsheet_C",
+    "title": "Open Ended Factsheet C",
+    "imageUrl": "slides/Open-Ended/FactSheet/open_ended_factsheet_C.PNG",
+    "videoUrl": "videos/Open-Ended/FactSheet/open_ended_factsheet_C.mp4",
+    "description": "Presents the factsheet for Share Class C and explains its role within the fund structure.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "This slide presents Share Class C. Like the other share classes, it follows the same core investment strategy but is structured to meet specific investor requirements. Providing multiple share classes allows BlueCrow to offer flexibility while maintaining consistency in investment management.",
+        "en-UK": "This slide presents Share Class C. Like the other share classes, it follows the same core investment strategy but is structured to meet specific investor requirements. Providing multiple share classes allows BlueCrow to offer flexibility while maintaining consistency in investment management.",
+        "pt-BR": "Este slide refere-se à Classe C. Tal como as restantes classes, segue a mesma estratégia base, mas é estruturada para responder a requisitos específicos de determinados investidores, garantindo flexibilidade na oferta."
+    }
+},
+{
+    "id": "about_bluecrow_intro",
+    "title": "About Bluecrow Intro",
+    "imageUrl": "slides/About - End/about_bluecrow_intro.PNG",
+    "videoUrl": "videos/About - End/about_bluecrow_intro.mp4",
+    "description": "",
+    "QnA": false,
+    "pitchScript": {
+        "en-US": "To conclude, I’d like to come back to BlueCrow Capital. BlueCrow operates as a key player in Portugal’s alternative investment landscape, recognised for its innovative approach and tailored investment solutions. Since its foundation in 2010, the firm has focused on structuring and managing investment vehicles that combine disciplined risk management with long-term value creation for investors.",
+        "en-UK": "To conclude, I’d like to come back to BlueCrow Capital. BlueCrow operates as a key player in Portugal’s alternative investment landscape, recognised for its innovative approach and tailored investment solutions. Since its foundation in 2010, the firm has focused on structuring and managing investment vehicles that combine disciplined risk management with long-term value creation for investors.",
+        "pt-BR": "Para concluir, gostaria de regressar à BlueCrow Capital. Desde 2010, a BlueCrow posiciona-se como uma gestora de investimentos alternativos de referência em Portugal, combinando inovação, disciplina e criação de valor no longo prazo."
+    }
+},
+{
+    "id": "about_what_sets_us_apart",
+    "title": "About What Sets Us Apart",
+    "imageUrl": "slides/About - End/about_what_sets_us_apart.PNG",
+    "videoUrl": "videos/About - End/about_what_sets_us_apart.mp4",
+    "description": "Highlights BlueCrow’s core values and differentiating pillars, including commitment, innovation, and transparency.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "What truly sets us apart is our commitment to investors. We focus on protecting capital, minimising risk, and maintaining a long-term perspective. Innovation is central to how we invest and how we structure our products, and transparency underpins all client relationships. Clear communication and alignment of interests are fundamental to how we operate.",
+        "en-UK": "What truly sets us apart is our commitment to investors. We focus on protecting capital, minimising risk, and maintaining a long-term perspective. Innovation is central to how we invest and how we structure our products, and transparency underpins all client relationships. Clear communication and alignment of interests are fundamental to how we operate.",
+        "pt-BR": "O que distingue a BlueCrow é o forte compromisso com os investidores, a aposta na transparência e uma abordagem disciplinada à gestão do risco. Estes princípios orientam todas as decisões de investimento e relações com clientes."
+    }
+},
+{
+    "id": "about_bluecrow_assets",
+    "title": "About Bluecrow Assets",
+    "imageUrl": "slides/About - End/about_bluecrow_assets.PNG",
+    "videoUrl": "videos/About - End/about_bluecrow_assets.mp4",
+    "description": "Provides information on BlueCrow’s assets under management and scale of operations.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "BlueCrow currently manages over six hundred and fifty million euros in assets under management. This scale reflects both the trust placed in us by investors and our ability to consistently deliver professionally managed investment solutions across different asset classes and strategies.",
+        "en-UK": "BlueCrow currently manages over six hundred and fifty million euros in assets under management. This scale reflects both the trust placed in us by investors and our ability to consistently deliver professionally managed investment solutions across different asset classes and strategies.",
+        "pt-BR": "A BlueCrow gere atualmente mais de seiscentos e cinquenta milhões de euros em ativos. Esta dimensão reflete a confiança dos investidores e a capacidade da sociedade em disponibilizar soluções de investimento profissionais de forma consistente."
+    }
+},
+{
+    "id": "about_bluecrow_products_services",
+    "title": "About Bluecrow Products Services",
+    "imageUrl": "slides/About - End/about_bluecrow_products_services.PNG",
+    "videoUrl": "videos/About - End/about_bluecrow_products_services.mp4",
+    "description": "Summarises BlueCrow’s range of products and services offered to investors.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "The company is divided into two main areas: venture capital and private equity, and asset management. Among the funds we manage, the four at the bottom labeled with Golden GV are the Golden Visa eligible funds. Today, BlueCrow offers the widest range of Golden Visa eligible funds in the market, spanning from venture capital to capital markets, including a short-term bond fund. This offering was intentional. We put ourselves in the investors’ shoes and recognized that a common concern on investing a significant amount of capital in a relatively unknown country. To address these concerns, we designed a broad suite of funds that allows investors to build their own diversified portfolio, tailored to their risk profile and return expectations, covering different asset classes and fund types.",
+        "en-UK": "The company is divided into two main areas: venture capital and private equity, and asset management. Among the funds we manage, the four at the bottom labeled with Golden GV are the Golden Visa eligible funds. Today, BlueCrow offers the widest range of Golden Visa eligible funds in the market, spanning from venture capital to capital markets, including a short-term bond fund. This offering was intentional. We put ourselves in the investors’ shoes and recognized that a common concern on investing a significant amount of capital in a relatively unknown country. To address these concerns, we designed a broad suite of funds that allows investors to build their own diversified portfolio, tailored to their risk profile and return expectations, covering different asset classes and fund types.",
+        "pt-BR": "A empresa é dividida em duas áreas principais: venture capital e private equity, e gestão de ativos. Entre os fundos que administramos, os quatro fundos no final, marcados como Golden GV, são os fundos elegíveis para Golden Visa. Hoje, a BlueCrow oferece a mais ampla gama de fundos elegíveis para Golden Visa no mercado, abrangendo desde venture capital até mercados de capitais, incluindo um fundo de títulos de curto prazo. Essa oferta foi intencional. Colocamo-nos no lugar dos investidores e percebemos que uma preocupação comum é investir um capital significativo em um país relativamente desconhecido. Para atender a essas preocupações, projetamos uma ampla gama de fundos que permite aos investidores construir sua própria carteira diversificada, personalizada de acordo com seu perfil de risco e expectativas de retorno, cobrindo diferentes classes de ativos e tipos de fundos."
+    }
+},
+{
+    "id": "about_bluecrow_history",
+    "title": "About Bluecrow History",
+    "imageUrl": "slides/About - End/about_bluecrow_history.PNG",
+    "videoUrl": "videos/About - End/about_bluecrow_history.mp4",
+    "description": "Explains BlueCrow’s evolution and growth since its establishment.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "BlueCrow started as a pure investment advisor back in 2010 and in 2018, we launched our first Golden Visa eligible fund, the Blue Growth Fund, a private equity fund that is now closed for subscriptions. The first investors in this fund have already begun obtaining Portuguese passports. Building on the knowledge and experience gained from the BlueCrow Growth Fund, we launched the BlueCrow the Next Tech Fund in 2020. In 2025, we introduced the Portugal Short Term Fund and the Portugal Select Fund, two open-ended funds. Although these two funds are relatively new, the strategies behind them have been managed by us since the early days of BlueCrow.",
+        "en-UK": "BlueCrow started as a pure investment advisor back in 2010 and in 2018, we launched our first Golden Visa eligible fund, the Blue Growth Fund, a private equity fund that is now closed for subscriptions. The first investors in this fund have already begun obtaining Portuguese passports. Building on the knowledge and experience gained from the BlueCrow Growth Fund, we launched the BlueCrow the Next Tech Fund in 2020. In 2025, we introduced the Portugal Short Term Fund and the Portugal Select Fund, two open-ended funds. Although these two funds are relatively new, the strategies behind them have been managed by us since the early days of BlueCrow.",
+        "pt-BR": "A BlueCrow começou como uma consultoria de investimentos pura em 2010 e, em 2018, lançamos nosso primeiro fundo elegível para Golden Visa, o Blue Growth Fund, um fundo de private equity que agora está fechado para novas subscrições. Os primeiros investidores desse fundo já começaram a obter passaportes portugueses. Com base no conhecimento e experiência adquiridos com o BlueCrow Growth Fund, lançamos o BlueCrow Next Tech Fund em 2020. Em 2025, introduzimos o Portugal Short Term Fund e o Portugal Select Fund, dois fundos abertos. Embora esses dois fundos sejam relativamente novos, as estratégias por trás deles vêm sendo gerenciadas por nós desde os primeiros dias da BlueCrow."
+    }
+},
+{
+    "id": "about_leadership_team",
+    "title": "About Leadership Team",
+    "imageUrl": "slides/About - End/about_leadership_team.PNG",
+    "videoUrl": "videos/About - End/about_leadership_team.mp4",
+    "description": "Introduces BlueCrow’s leadership team and their role in guiding the firm’s strategy.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "Let me give you a quick overview of our leadership team. The company is managed by our 3 partners: Bernardo Meira, Duarte Menezes, and António Campello. Bernardo’s background is in corporate finance and M&A. Duarte comes from a background in brokerage and structured products. He is now focused on supporting our private equity team in developing the funds and the businesses behind them. António is in asset management and wealth management, and Bernardo primarily focuses on our asset management operations and products.",
+        "en-UK": "Let me give you a quick overview of our leadership team. The company is managed by our 3 partners: Bernardo Meira, Duarte Menezes, and António Campello. Bernardo’s background is in corporate finance and M&A. Duarte comes from a background in brokerage and structured products. He is now focused on supporting our private equity team in developing the funds and the businesses behind them. António is in asset management and wealth management, and Bernardo primarily focuses on our asset management operations and products.",
+        "pt-BR": "Deixe-me dar uma visão rápida da estratégia e da equipe da BlueCrow. A empresa é gerida por nós três: Bernardo Meira, Duarte Menezes e António Campello. Bernardo tem formação em finanças corporativas e fusões e aquisições. Duarte vem de uma experiência em corretagem e produtos estruturados e atualmente está focado em apoiar nossa equipe de private equity no desenvolvimento dos fundos e dos negócios por trás deles. António atua em gestão de ativos e gestão de patrimônio, portanto eu me concentro principalmente nas nossas operações e produtos de gestão de ativos."
+    }
+},
+{
+    "id": "about_team_experience",
+    "title": "About Team Experience",
+    "imageUrl": "slides/About - End/about_team_experience.PNG",
+    "videoUrl": "videos/About - End/about_team_experience.mp4",
+    "description": "Highlights the broader investment team’s experience and skill set.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "The wider BlueCrow team brings together professionals with experience in private equity, venture capital, corporate finance, trade finance, valuation, and asset management. This diversity of backgrounds strengthens decision-making and supports the performance of the companies and funds under management.",
+        "en-UK": "The wider BlueCrow team brings together professionals with experience in private equity, venture capital, corporate finance, trade finance, valuation, and asset management. This diversity of backgrounds strengthens decision-making and supports the performance of the companies and funds under management.",
+        "pt-BR": "A equipa alargada da BlueCrow reúne profissionais com experiências diversas em finanças, análise de investimentos e gestão de portefólios. Esta combinação de competências suporta decisões de investimento sólidas e bem fundamentadas."
+    }
+},
+{
+    "id": "about_regulation_cmvm",
+    "title": "About Regulation Cmvm",
+    "imageUrl": "slides/About - End/about_regulation_cmvm.PNG",
+    "videoUrl": "videos/About - End/about_regulation_cmvm.mp4",
+    "description": "Explains BlueCrow’s regulatory framework and oversight by the Portuguese Securities Market Commission.",
+    "QnA": true,
+    "pitchScript": {
+        "en-US": "BlueCrow and its funds are fully regulated by the Portuguese Securities Market Commission, known as the CMVM. This is the highest level of financial regulation in Portugal and ensures strict compliance, governance, and investor protection. Regulatory oversight is a cornerstone of trust and transparency in everything we do.",
+        "en-UK": "BlueCrow and its funds are fully regulated by the Portuguese Securities Market Commission, known as the CMVM. This is the highest level of financial regulation in Portugal and ensures strict compliance, governance, and investor protection. Regulatory oversight is a cornerstone of trust and transparency in everything we do.",
+        "pt-BR": "A BlueCrow e os seus fundos são totalmente regulados pela Comissão do Mercado de Valores Mobiliários, a CMVM. Esta supervisão garante elevados padrões de conformidade, governação e proteção dos investidores."
+    }
+},
+{
+	"id": "bluecrow_end",
+	"title": "Bluecrow End",
+	"imageUrl": "slides/About - End/bluecrow_end.PNG",
+	"videoUrl": "videos/About - End/bluecrow_end.mp4",
+	"description": "Closes the presentation and invites further discussion or questions.",
+	"QnA": true,
+	"pitchScript": {
+		"en-US":"That brings us to the end of the presentation. Thank you for your time.",
+		"en-UK": "That brings us to the end of the presentation. Thank you for your time.",
+		"pt-BR": "Com isso, chegamos ao final da apresentação. Obrigado pelo seu tempo."
+}
+}
+]
+}

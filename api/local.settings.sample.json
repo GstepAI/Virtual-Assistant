@@ -1,0 +1,50 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+
+    "AZURE_OPENAI_ENDPOINT": "https://your-openai-resource.openai.azure.com/",
+    "AZURE_OPENAI_API_KEY": "your-azure-openai-api-key",
+    "AZURE_OPENAI_DEPLOYMENT_NAME": "gpt-4o-mini",
+    "AZURE_OPENAI_API_VERSION": "2024-08-01-preview",
+
+    "AZURE_SEARCH_ENDPOINT": "https://your-search-service.search.windows.net",
+    "AZURE_SEARCH_API_KEY": "your-azure-search-admin-key",
+    "AZURE_SEARCH_INDEX_NAME": "full-index-bluecrow",
+    "AZURE_SEARCH_INDEXER_NAME": "bluecrow-content-indexer",
+
+    "AZURE_SPEECH_KEY": "your-azure-speech-key",
+    "AZURE_SPEECH_REGION": "swedencentral",
+
+    "ADMIN_ALLOWED_EMAILS": "admin@bluecrow.com,another.admin@bluecrow.com",
+    "ADMIN_ALLOW_ALL_AUTHENTICATED": "false",
+    "ADMIN_DISABLE_AUTH": "false",
+    "ADMIN_DEV_BYPASS": "false",
+    "ADMIN_DEV_KEY": "local-dev-admin-key",
+
+    "CONTENT_STORE_BACKEND": "blob",
+    "BLOB_STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=yourstorage;AccountKey=yourkey;EndpointSuffix=core.windows.net",
+    "CONTENT_STORE_BLOB_CONTAINER": "bluecrow-content",
+    "CONTENT_STORE_PROD_BLOB_CONTAINER": "bluecrow-content-prod",
+    "CONTENT_STORE_BLOB_NAME": "content-store.json",
+    "CONTENT_STORE_PROD_BLOB_NAME": "content-store.json",
+    "MEDIA_BLOB_CONTAINER": "bluecrow-media",
+    "MEDIA_BLOB_PUBLIC_ACCESS": "true",
+    "MEDIA_PUBLIC_BASE_URL": "https://yourstorage.blob.core.windows.net/bluecrow-media",
+    "KNOWLEDGE_BASE_BLOB_CONTAINER": "bluecrow-knowledge-base",
+
+    "VITE_QNA_ENABLED": "true",
+    "VITE_BUG_REPORT_ENABLED": "false",
+    "VITE_ADMIN_ENABLED": "true",
+    "VITE_BUG_REPORT_ENDPOINT": "https://your-function-app.azurewebsites.net/api/BugReport",
+    "VITE_SESSION_DATA_ENDPOINT": "https://your-function-app.azurewebsites.net/api/SessionData",
+
+    "MEDIA_UPLOAD_SECRET": "change-this-local-upload-signing-secret",
+    "MEDIA_UPLOAD_MAX_MB": "25",
+    "MEDIA_UPLOAD_MAX_IMAGE_MB": "10",
+    "MEDIA_UPLOAD_MAX_VIDEO_MB": "200",
+    "MEDIA_UPLOAD_TTL_SECONDS": "300",
+    "KNOWLEDGE_BASE_UPLOAD_MAX_MB": "50"
+  }
+}
